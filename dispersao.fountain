@@ -132,6 +132,8 @@ Por enquanto tá dando sim.
 EXT. DIA - SALA DE ANA  #5#
 
 [[arc:"namoro"|"traicao"|"iluminacao ana"]][[pos:3|4|6|8|10|15|20|25]]
+[[requires:2]]
+
 
 Ana jogada no sofá imersa no celular. Joao entra, joga a mochila no sofá, puxa papo.
 
@@ -193,7 +195,8 @@ Dentro de uma barraca, Joao acorda. Aos poucos, começa a se escutar ruídos de 
 
 INT. NOITE - INTERIOR DE PRÉDIO ABANDONADO #11#
 
-[[arc:"sumico"|"namoro"|"traicao"|"prisao"]][[pos:30|33|37|40|42|]][[blocks:15]]
+[[arc:"sumico"|"namoro"|"traicao"|"prisao"]][[pos:30|33|37|40|42|]]
+[[blocks:15]][[requires:14]]
 
 Juliana e Joao olham a vista para a cidade de um andar alto do edifício.
 
@@ -339,7 +342,8 @@ Corta para:
 
 INT. NOITE - INTERIOR DE PRÉDIO ABANDONADO #15#
 
-[[arc:"sumico"|"namoro"|"traicao"|"prisao"]][[pos:30|33|37|40|42|]][[blocks:11]]
+[[arc:"sumico"|"namoro"|"traicao"|"prisao"]][[pos:30|33|37|40|42|]]
+[[requires:14]][[blocks:11]]
 
 Juliana e Joao olham a vista para a cidade de um andar alto do edifício.
 
@@ -378,7 +382,7 @@ JOAO
 
 INT. NOITE - FESTA #16#
 
-[[arc:"sumico"|"namoro"|"traicao"|"prisao"]][[pos:30|33|37|40|42|]][[blocks:15]]
+[[arc:"sumico"|"namoro"|"traicao"|"prisao"]][[pos:30|33|37|40|42|]]
 
 -- talvez mudar a cena para ocupa rio de noite. --
 
@@ -387,7 +391,7 @@ Festa estranha, gente esquisita, punks, "alternativos", etc. Joao circula, olha 
 
 INT. NOITE - FESTA #17#
 
-[[arc:"sumico"|"namoro"|"traicao"|"prisao"]][[pos:33|35|37|40|42|]][[blocks:15]]
+[[arc:"sumico"|"namoro"|"traicao"|"prisao"]][[pos:33|35|37|40|42|]][[requires:16]]
 
 
 Joao e Juliana discutem.
@@ -473,6 +477,7 @@ Desliga. Suspira. Ana olha o crachá no pescoço e atira pela janela, com raiva.
 EXT. DIA - RUA MOVIMENTADA DA ZONA SUL #21#
 
 [[arc:"demissao"|"iluminacao ana"]][[pos:5|55|65]]
+[[blocks:22]]
 
 Ana anda apressada de óculos escuros. Uma melhor de meia-idade a reconhece e vem falar com ela.
 
@@ -497,7 +502,8 @@ Obrigada a você!
 
 EXT. DIA - RUA MOVIMENTADA DA ZONA SUL #22#
 
-[[arc:"demissao"|"iluminacao ana"]][[pos:10|13|60|65]]
+[[arc:"iluminacao ana"]][[pos:10|13|60|65]]
+[[blocks:21]]
 
 Ana anda apressada de óculos escuros. Uma mulher de meia-idade a reconhece e pede para tirar uma selfie.
 
@@ -604,6 +610,7 @@ Bom. Você que sabe.
 INT. DIA - ESCRITÓRIO DE FERNANDA #29#
 
 [[arc:"demissao"|"iluminacao ana"]][[pos:15|25|45]]
+[[blocks:29A]]
 
 Ana já despedida. Ana e Fernanda tomam um café.
 
@@ -638,7 +645,8 @@ Esse pessoal é péssimo. Se as manifestações acabaram daquele jeito, sem ning
 
 INT. DIA - ESCRITÓRIO DE FERNANDA #29A#
 
-[[arc:"demissao"|"iluminacao ana"]][[pos:15|25|45]]
+[[arc:"iluminacao ana"]][[pos:15|25|45]]
+[[blocks:29]]
 
 
 Ana ainda empregada. Ana e Fernanda tomam um café.
@@ -808,7 +816,7 @@ Ana abre a caixa e vê uma carta sem remetente. Ela abre nervosa. Tira uma folha
 INT. DIA - SALA DE ANA #36#
 
 [[arc:"sumico"|"bento rodrigues"]][[pos:56|62|73]]
-
+[[requires:35]]
 
 Ana ao telefone fixo.
 
@@ -829,6 +837,7 @@ Sim, foi onde a barragem estourou. Bento Rodrigues. Será?
 INT. DIA - SALA DE ANA #37#
 
 [[arc:"sumico"|"aldeia"]][[pos:56|62|73]]
+[[requires:35]]
 
 
 Ana ao telefone fixo.
@@ -850,6 +859,8 @@ Sim, ele tinha falado de uma aldeia indígena. Uma comunidade.
 INT. NOITE - SALA DE ANA #38#
 
 [[arc:"sumico"|"bento rodrigues"]][[pos:57|64|74]]
+[[requires:36]]
+
 
 Ana procura na internet informações sobre o desastre da barragem da Vale. Vemos um vídeo em tela cheia sobre o assunto.
 
@@ -890,7 +901,7 @@ Ana e Fernanda no café, olhando seus celulares.
 INT. DIA - ESCRITÓRIO DE FERNANDA #40#
 
 [[arc:"demissao"|"aldeia"|"sumico"|"iluminacao ana"]][[pos:10|21|32|44|54|66|78]]
-
+[[enforces:41]]
 
 Fernanda em sua mesa, Ana sentada em frente.
 
@@ -952,6 +963,7 @@ Ana espera o pajé ao lado de uma barraca. Vemos que joao está lendo dentro da 
 INT. DIA - ESCRITÓRIO DE FERNANDA #42#
 
 [[arc:"demissao"|"bento rodrigues"|"iluminacao ana"]][[pos:25|55|65]]
+[[requires:32]]
 
 Fernanda liga para Ana*.
 
@@ -966,7 +978,7 @@ Sim, deve ser desde a privatização, eles ficaram putos contigo.
 INT. DIA - SALA DE ANA #43#
 
 [[arc:"demissao"|"bento rodrigues"|"iluminacao ana"]][[pos:26|56|66]]
-
+[[requires:42]]
 
 
 ANA
@@ -976,7 +988,7 @@ Será que me demitiram por alguma coisa que ouviram?
 EXT. DIA - BENTO RODRIGUES #44#
 
 [[arc:"demissao"|"bento rodrigues"|"iluminacao ana"|sumico]][[pos:57|67|72]]
-
+[[requires:36]]
 
 Ana chega numa cancela que define o limite de até onde o acesso à antiga vila de Bento Rodrigues é possível.
 
@@ -1129,7 +1141,9 @@ Ana e Fernanda estão terminando de jantar, tomando um vinho. Ana conta que joao
 
 INT. NOITE - SALA DE ANA #49B#
 
-[[arc:"iluminacao ana"|"demissao"]][[pos:34|44]]
+[[arc:"sumico"|"iluminacao ana"|"demissao"]][[pos:34|44]]
+
+
 
 Ana e Fernanda estão terminando de jantar, tomando um vinho. Ana conta que está pensando em pedir demissão.
 
@@ -1208,6 +1222,8 @@ Mas como eu vou ter pego alguma coisa? Faz tempo que não vou no mato ou na prai
 INT. DIA - CONSULTÓRIO DE DERMATOLOGIA 1 #52#
 
 [[arc:"demissao"|"pele"|"sumico"|"iluminacao ana"]][[pos:25|45|55]]
+[[enforces:54]]
+
 
 Ana mostra o braço para o médico.
 
@@ -1260,6 +1276,8 @@ Ana se frustra.
 INT. DIA - CONSULTÓRIO DE DERMATOLOGIA 1 #54#
 
 [[arc:"demissao"|"pele"|"sumico"|"iluminacao ana"]][[pos:55|65|72]]
+[[requires:52]]
+
 
 MEDICO
 Ekbom.
@@ -1297,6 +1315,7 @@ Não. Não precisa. Vou pensar.
 INT. NOITE - BANHEIRO DE ANA #55#
 
 [[arc:"demissao"|"pele"|"sumico"|"iluminacao ana"]][[pos:1|65|75]]
+[[requires:52]]
 
 
 Ana se vê aflita, um pouco deprimida. Coça o braço, primeiro leve, depois com força, depois se contém. Ela passa o dedo, seguindo um caminho percorrido pelo parasita no seu braço. Ela buscar uma pomada para passar, se senta novamente, põe um pouco no dedo mas pára. Vai em um gaveta e busca um estilete (faca olfa).
@@ -1384,6 +1403,7 @@ Juliana sai e deixa o celular na sala. Ele não resiste, olha o celular dela e v
 EXT. DIA - ENTRADA DE METRO #62#
 
 [[arc:"sumico"|"traicao"|"namoro"]][[pos:43|52|61]]
+[[requires:16]]
 
 Joao andando de bicicleta em uma rua. Sem parar ele nota alguma coisa fora de quadro e olha fixamente, diminuindo a bicicleta até parar.
 
@@ -1441,7 +1461,7 @@ Joao assiste TV em casa.
 INT. NOITE - SALA DE ANA #67#
 
 [[arc:"namoro"|"traicao"|"sumico"|"iluminacao ana"]][[pos:12|38|52]]
-
+[[enforces:69]]
 
 Juliana e Marcos conversam com Ana em sua casa.
 
@@ -1483,7 +1503,7 @@ Ana em casa, olha seu crachá.
 INT. DIA - ESTUDIO #69#
 
 [[arc:"demissao"|"iluminacao ana"]][[pos:33|54|66]]
-
+[[requires:67]]
 
 É o início do programa. Vemos Marcos sentado, pronto para ser sabatinado. Ana apresenta.
 
@@ -1688,7 +1708,7 @@ Tá bem surda mesmo.
 EXT. DIA - RUA DE TERRA #82#
 
 [[arc:"trilha laura"|"iluminacao ana"| "pele"]][[pos:65|67]]
-
+[[requires:81]]
 
 SOM OFF: Ouve-se um barulho de carro parando, uma porta abre.
 
