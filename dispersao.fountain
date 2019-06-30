@@ -1,4 +1,4 @@
-Title:
+]][Title:
     _**DISPERSÃO**_
 Credit: Projeto de
 Author: Bruno Vianna
@@ -10,7 +10,7 @@ Draft date: 03/09/2018
 
 EXT. NOITE - BOTAFOGO #1#
 
-[[arc:"iluminacao da ana"]][[pos:1|3|4]]
+[[arc:iluminacao ana]][[pos:1|3|4]]
 
 
 Ana caminha pela calçada apressada e repara um táxi vazio esperando na rua. Ela se aproxima do motorista.
@@ -38,7 +38,7 @@ Quer que eu chame um guarda?
 O táxi se resigna e resolve sair. Ana continua a andar com uma sensação de dever cumprido.
 
 EXT. DIA - UNIVERSIDADE #2#
-[[arc:"namoro"|"iluminacao joao"]][[pos:4|5|6|8|10]]
+[[arc:namoro|iluminacao joao]][[pos:4|5|6|8|10]]
 
 Joao chega de bicicleta. Prende ela a um bicicletário, onde Juliana já está prendendo a dela. Ela a cumprimenta.
 
@@ -84,7 +84,7 @@ Joao sorri.
 EXT. DIA - SALA DE ANA  #3#
 
 
-[[arc:"trilha laura"|"iluminacao ana"]][[pos:6|8|10|12|15|20|25]]
+[[arc:trilha laura|iluminacao ana]][[pos:6|8|10|12|15|20|25]]
 
 
 Laura serve o café da manhã, de uniforme. Uma televisão exibe um telejornal matinal. Ana comenta as notícias políticas.
@@ -102,7 +102,7 @@ Nós, Laura, você é da família, né?
 
 INT. DIA - ESCRITÓRIO DE FERNANDA  #4#
 
-[[arc:"demissao"|"iluminacao ana"]][[pos:3|4|6|8|10|15|20]]
+[[arc:demissao|iluminacao ana]][[pos:3|4|6|8|10|15|20]]
 
 Fernanda dá um tour da agência dela.
 
@@ -131,7 +131,7 @@ Por enquanto tá dando sim.
 
 EXT. DIA - SALA DE ANA  #5#
 
-[[arc:"namoro"|"traicao"|"iluminacao ana"]][[pos:3|4|6|8|10|15|20|25]]
+[[arc:namoro|traicao|iluminacao ana]][[pos:3|4|6|8|10|15|20|25]]
 [[requires:2]]
 
 
@@ -150,7 +150,7 @@ Ana ainda não saiu do transe. Joao suspira, desiste, vai para o quarto.
 
 EXT. DIA - QUARTO DE JOAO  #6#
 
-[[arc:"namoro"|"iluminacao ana"|"prisao"]][[pos:10|15|20|25|30|40]]
+[[arc:namoro|iluminacao ana|prisao]][[pos:10|15|20|25|30|40]]
 
 
 O dia amanhece, Ana em roupa de dormir. Entra no quarto de Joao*. Não há ninguém, a cama feita. Ela olha as coisas dele, toca alguns livros na estante. Não está preocupada, só está se habituando à ideia de que agora nem sempre o filho dorme em casa.
@@ -158,7 +158,7 @@ O dia amanhece, Ana em roupa de dormir. Entra no quarto de Joao*. Não há ningu
 
 EXT. DIA - QUARTO DE JOAO  #7#
 
-[[arc:"sumico"|"iluminacao ana"|"namoro"|"traicao"]][[pos:50|60|65]]
+[[arc:sumico|iluminacao ana|namoro|traicao]][[pos:50|60|65]]
 
 
 O dia amanhece, Ana em roupa de dormir. Entra no quarto de Joao*. Não há ninguém, a cama feita. Ela olha as coisas dele, abre gavetas, procura pistas. Há três abrigos negros com capuz, estilo black bloc. Inspeciona bolsos de roupas. Joao* está desaparecido há alguns dias e ela começa a se desesperar.
@@ -166,7 +166,7 @@ O dia amanhece, Ana em roupa de dormir. Entra no quarto de Joao*. Não há ningu
 
 INT. DIA - QUARTO DE JOAO  #8#
 
-[[arc:"namoro"|"sumico"|"traicao"|"prisao"]][[pos:40|45|50]]
+[[arc:namoro|sumico|traicao|prisao]][[pos:40|45|50]]
 
 
 Joao se prepara para ir a uma manifestação. Coloca vinagre na mochila, uma máscara tipo anonymous, um lenço de rosto, um lenço palestino.
@@ -174,7 +174,7 @@ Joao se prepara para ir a uma manifestação. Coloca vinagre na mochila, uma má
 
 EXT. DIA - QUARTO DE JOAO #9#
 
-[[arc:"relacao ana e joao"|"namoro"|"sumico"]][[pos:2|3|4|10|15|20]]
+[[arc:relacao ana e joao|namoro|sumico]][[pos:2|3|4|10|15|20]]
 
 Ana chega em casa de tarde. Abre a porta do quarto do Joao. Joao parece mais novo. Ele está jogando um video game.
 
@@ -187,7 +187,7 @@ Ana dá um sorriso de desprezo e sai.
 
 INT./EXT. DIA - CINELÂNDIA #10#
 
-[[arc:"sumico"|"namoro"|"traicao"|"prisao"]][[pos:22|25|30|32|]]
+[[arc:sumico|namoro|traicao|prisao]][[pos:22|25|30|32]]
 
 
 Dentro de uma barraca, Joao acorda. Aos poucos, começa a se escutar ruídos de rua. Carros, pessoas conversando. Joao se levanta e senta, espreguiçando. Ele escuta a voz de Juliana fazendo um tipo de discurso. Abre a porta da barraca: estamos na Cinelândia, diversas barracas estão montadas. Joao sai. Juliana está falando, sentada em um círculo com cerca de 30 pessoas, propondo plantar uma horta na praça. No centro do círculo, vários cartazes espalhados no chão com palavras de ordem.  Ela termina de falar, as pessoas aplaudem abanando as mãos.
@@ -195,7 +195,7 @@ Dentro de uma barraca, Joao acorda. Aos poucos, começa a se escutar ruídos de 
 
 INT. NOITE - INTERIOR DE PRÉDIO ABANDONADO #11#
 
-[[arc:"sumico"|"namoro"|"traicao"|"prisao"]][[pos:30|33|37|40|42|]]
+[[arc:sumico|namoro|traicao|prisao]][[pos:30|33|37|40|42]]
 [[blocks:15]][[requires:14]]
 
 Juliana e Joao olham a vista para a cidade de um andar alto do edifício.
@@ -244,7 +244,7 @@ Não é assim, também.
 
 
 EXT. DIA - CINELÂNDIA #12#
-[[arc:"sumico"|"namoro"|"traicao"|"prisao"]][[pos:25|30|32|]]
+[[arc:sumico|namoro|traicao|prisao]][[pos:25|30|32]]
 
 
 Fim de tarde: uma assembleia discute o futuro da ocupação. Entre os participantes notam-se diversos moradores de rua. Outros usam máscaras estilo V de Vingança. Joao e Juliana, no círculo, observam.
@@ -279,7 +279,7 @@ Ele concorda.
 
 EXT. DIA - CINELÂNDIA #12B#
 
-[[arc:"sumico"|"namoro"|"traicao"|"prisao"]][[pos:20|31|35|]]
+[[arc:sumico|namoro|traicao|prisao]][[pos:20|31|35]]
 
 O senhor sem teto lê um comunicado na OcupaRio.
 
@@ -289,13 +289,13 @@ E já, como soberanos de nós mesmos....
 EXT. DIA - CINELÂNDIA #12C#
 
 
-[[arc:"sumico"|"namoro"|"traicao"|"prisao"]][[pos:25|30|32|]]
+[[arc:sumico|namoro|traicao|prisao]][[pos:25|30|32]]
 
 Um criança de um ano passeia pela OcupaRio.
 
 INT. DIA - SALA DE ANA #13#
 
-[[arc:"sumico"|"namoro"|"iluminacao ana"|"trilha laura"]][[pos:40|42|48]]
+[[arc:sumico|namoro|iluminacao ana|trilha laura]][[pos:40|42|48]]
 
 Ana e Joao sentados comendo um lanche.
 
@@ -322,7 +322,7 @@ Idealismo não tem nada a ver com isso. Idealismo é uma bobagem.
 
 EXT. NOITE - RUA DESERTA DO CENTRO DA CIDADE #14#
 
-[[arc:"sumico"|"namoro"|"traicao"|"prisao"]][[pos:30|33|37|40|42|]]
+[[arc:sumico|namoro|traicao|prisao]][[pos:30|33|37|40|42]]
 
 Joao e Juliana caminham numa rua vazia. Olham os prédios. É uma região meio abandonada.
 
@@ -342,7 +342,7 @@ Corta para:
 
 INT. NOITE - INTERIOR DE PRÉDIO ABANDONADO #15#
 
-[[arc:"sumico"|"namoro"|"traicao"|"prisao"]][[pos:30|33|37|40|42|]]
+[[arc:sumico|namoro|traicao|prisao]][[pos:30|33|37|40|42]]
 [[requires:14]][[blocks:11]]
 
 Juliana e Joao olham a vista para a cidade de um andar alto do edifício.
@@ -382,7 +382,7 @@ JOAO
 
 INT. NOITE - FESTA #16#
 
-[[arc:"sumico"|"namoro"|"traicao"|"prisao"]][[pos:30|33|37|40|42|]]
+[[arc:sumico|namoro|traicao|prisao]][[pos:30|33|37|40|42]]
 
 -- talvez mudar a cena para ocupa rio de noite. --
 
@@ -391,7 +391,7 @@ Festa estranha, gente esquisita, punks, "alternativos", etc. Joao circula, olha 
 
 INT. NOITE - FESTA #17#
 
-[[arc:"sumico"|"namoro"|"traicao"|"prisao"]][[pos:33|35|37|40|42|]][[requires:16]]
+[[arc:sumico|namoro|traicao|prisao]][[pos:33|35|37|40|42]][[requires:16]]
 
 
 Joao e Juliana discutem.
@@ -428,14 +428,14 @@ Joao entende. Não questiona mais.
 
 EXT. DIA - TAXI NO TRÂNSITO #18#
 
-[[arc:"iluminacao ana"|"demissao"|"prisao"]][[pos:30|40|50|60|62]]
+[[arc:iluminacao ana|demissao|prisao]][[pos:30|40|50|60|62]]
 
 Ana distraída no banco de trás. Olha a paisagem estourando plástico bolha.
 
 
 INT. DIA - BARRACÃO IMPROVISADO COM LONA NA OCUPARIO #19#
 
-[[arc:"sumico"|"namoro"|"traicao"|"prisao"]][[pos:31|32|34|35|]]
+[[arc:sumico|namoro|traicao|prisao]][[pos:31|32|34|35]]
 
 Pequeno grupo discute sobre o movimento dentro do barracão. Juliana está presente.
 
@@ -458,7 +458,7 @@ Muito gente aí fora nem sabe o que é internet.
 INT. DIA - SALA DE ANA #20#
 
 
-[[arc:"demissao"|"iluminacao ana"]][[pos:1|50|52|60]]
+[[arc:demissao|iluminacao ana]][[pos:1|50|52|60]]
 
 Ana entra em casa se sentindo mal, falado no telefone. Cara de quem chorou, ou vai chorar.
 
@@ -476,7 +476,7 @@ Desliga. Suspira. Ana olha o crachá no pescoço e atira pela janela, com raiva.
 
 EXT. DIA - RUA MOVIMENTADA DA ZONA SUL #21#
 
-[[arc:"demissao"|"iluminacao ana"]][[pos:5|55|65]]
+[[arc:demissao|iluminacao ana]][[pos:5|55|65]]
 [[blocks:22]]
 
 Ana anda apressada de óculos escuros. Uma melhor de meia-idade a reconhece e vem falar com ela.
@@ -502,7 +502,7 @@ Obrigada a você!
 
 EXT. DIA - RUA MOVIMENTADA DA ZONA SUL #22#
 
-[[arc:"iluminacao ana"]][[pos:10|13|60|65]]
+[[arc:iluminacao ana]][[pos:10|13|60|65]]
 [[blocks:21]]
 
 Ana anda apressada de óculos escuros. Uma mulher de meia-idade a reconhece e pede para tirar uma selfie.
@@ -512,7 +512,7 @@ Ana anda apressada de óculos escuros. Uma mulher de meia-idade a reconhece e pe
 
 INT. DIA - CAFÉ #23#
 
-[[arc:"demissao"|"prisao"|"iluminacao ana"]][[pos:55|57|59]]
+[[arc:demissao|prisao|iluminacao ana]][[pos:55|57|59]]
 
 Ana encontra Fernanda num café. Ela está aflita.
 
@@ -549,14 +549,14 @@ Sim. Entendi. Claro, vou tentar, mas não tenho ideia de como ele vai reagir.
 
 EXT. DIA - CICLOVIA #24#
 
-[[arc:"interludio"]][[pos:8|18|28|38|48|58]]
+[[arc:interludio]][[pos:8|18|28|38|48|58]]
 
 Ana anda de bicicleta, um pouco tensa.
 
 
 INT. DIA - VARANDA DE ANA #25#
 
-[[arc:"alarme"]][[pos:9|19|29|39|49|59]]
+[[arc:alarme]][[pos:9|19|29|39|49|59]]
 
 Joao derruba um vaso da varanda da casa. Ele quebra, espalhando terra, fazendo muito barulho. Ele se irrita, chama a empregada.
 
@@ -566,14 +566,14 @@ Laura!
 
 INT. DIA - COZINHA DE ANA #26#
 
-[[arc:"alarme"]][[pos:9|19|29|39|49|59]]
+[[arc:alarme]][[pos:9|19|29|39|49|59]]
 
 Laura está secando um grande tabuleiro de alumínio. Ele o deixa cair no chão. Faz um barulho imenso. Ela chega a se assustar.
 
 
 INT. DIA - SALA DE ANA #27#
 
-[[arc:"alarme"]][[pos:9|19|29|39|49|59]]
+[[arc:alarme]][[pos:9|19|29|39|49|59]]
 
 
 Ana está na cama tomando uma xicará de chá. Quando vai colocar a xícara na mesa de cabeceira, ela a deixa cair no chão. Faz um barulho horrível. Ela suspira.
@@ -581,7 +581,7 @@ Ana está na cama tomando uma xicará de chá. Quando vai colocar a xícara na m
 
 INT. DIA - QUARTO DE EMPREGADA DE ANA #28#
 
-[[arc:"trilha laura"|"iluminacao ana"]][[pos:35|37|40]]
+[[arc:trilha laura|iluminacao ana]][[pos:35|37|40]]
 
 
 
@@ -609,7 +609,7 @@ Bom. Você que sabe.
 
 INT. DIA - ESCRITÓRIO DE FERNANDA #29#
 
-[[arc:"demissao"|"iluminacao ana"]][[pos:15|25|45]]
+[[arc:demissao|iluminacao ana]][[pos:15|25|45]]
 [[blocks:29A]]
 
 Ana já despedida. Ana e Fernanda tomam um café.
@@ -645,7 +645,7 @@ Esse pessoal é péssimo. Se as manifestações acabaram daquele jeito, sem ning
 
 INT. DIA - ESCRITÓRIO DE FERNANDA #29A#
 
-[[arc:"iluminacao ana"]][[pos:15|25|45]]
+[[arc:iluminacao ana]][[pos:15|25|45]]
 [[blocks:29]]
 
 
@@ -685,7 +685,7 @@ Esse pessoal é péssimo. Se as manifestações acabaram daquele jeito, sem ning
 
 INT. NOITE - SALA DE ANA #30#
 
-[[arc:"prisao"|"sumico"]][[pos:45|47|50|52]]
+[[arc:prisao|sumico]][[pos:45|47|50|52]]
 
 Ana e Laura assitem televisão no sofá. Sons de reportagem sobre as manifestações de junho de 2013. "Depredações, baderna, vandalismo".
 
@@ -700,7 +700,7 @@ Deus me livre.
 
 INT. NOITE - SALA DE ANA #31#
 
-[[arc:"trilha laura"|"iluminacao ana"]][[pos:45|47|50|52]]
+[[arc:trilha laura|iluminacao ana]][[pos:45|47|50|52]]
 
 
 Ana e Laura assistem televisão no sofá. Locução de reportagem sobre a PEC das domésticas.
@@ -723,7 +723,7 @@ Cordialidade, Laura. Você é nossa família também.
 INT. DIA - ESTUDIO #32#
 
 
-[[arc:"demissao"|"sumico"|"bento rodrigues"]][[pos:6||52|60]]
+[[arc:demissao|sumico|bento rodrigues]][[pos:6|52|60]]
 
 
 Num cenário simples, em 1997, Ana de tailler e um entrevistado, economista, de terno.
@@ -755,7 +755,7 @@ Ana concorda, aceita.
 
 EXT. NOITE - TAXI NO ENGARRAFAMENTO #33#
 
-[[arc:"iluminacao ana"]][[pos:21|31|61]]
+[[arc:iluminacao ana]][[pos:21|31|61]]
 
 Táxi preso no trânsito. Ana reclama.
 
@@ -783,7 +783,7 @@ ANA
 
 EXT. NOITE - TAXI NO ENGARRAFAMENTO #34#
 
-[[arc:"iluminacao ana"|"prisao"|"demissao"]][[pos:61|72]]
+[[arc:iluminacao ana|prisao|demissao]][[pos:61|72]]
 
 Táxi preso no trânsito. Ana reclama.
 
@@ -808,14 +808,14 @@ Ana sai no táxi. Hesita, não sabe se vai em frente ou toma outro caminho. Term
 
 INT. DIA - CAIXA DE CORREIO DA ANA #35#
 
-[[arc:"sumico"]][[pos:55|61|72]]
+[[arc:sumico]][[pos:55|61|72]]
 
 Ana abre a caixa e vê uma carta sem remetente. Ela abre nervosa. Tira uma folha escrita a mão. Vemos a assinatura: é uma carta de Joao.
 
 
 INT. DIA - SALA DE ANA #36#
 
-[[arc:"sumico"|"bento rodrigues"]][[pos:56|62|73]]
+[[arc:sumico|bento rodrigues]][[pos:56|62|73]]
 [[requires:35]]
 
 Ana ao telefone fixo.
@@ -836,7 +836,7 @@ Sim, foi onde a barragem estourou. Bento Rodrigues. Será?
 
 INT. DIA - SALA DE ANA #37#
 
-[[arc:"sumico"|"aldeia"]][[pos:56|62|73]]
+[[arc:sumico|aldeia]][[pos:56|62|73]]
 [[requires:35]]
 
 
@@ -858,7 +858,7 @@ Sim, ele tinha falado de uma aldeia indígena. Uma comunidade.
 
 INT. NOITE - SALA DE ANA #38#
 
-[[arc:"sumico"|"bento rodrigues"]][[pos:57|64|74]]
+[[arc:sumico|bento rodrigues]][[pos:57|64|74]]
 [[requires:36]]
 
 
@@ -867,7 +867,7 @@ Ana procura na internet informações sobre o desastre da barragem da Vale. Vemo
 
 INT. DIA - CAFÉ #39#
 
-[[arc:"sumico"]][[pos:58|60|63]]
+[[arc:sumico]][[pos:58|60|63]]
 
 
 Ana encontra Fernanda no café. Ela está ansiosa.
@@ -892,7 +892,7 @@ Ana suspira. A decepção, ela quer chorar. Fernanda a abraça.
 
 INT. DIA - CAFÉ #39A#
 
-[[arc:"interludio"]][[pos:10|21|32|44|54|66|78]]
+[[arc:interludio]][[pos:10|21|32|44|54|66|78]]
 
 
 Ana e Fernanda no café, olhando seus celulares.
@@ -900,7 +900,7 @@ Ana e Fernanda no café, olhando seus celulares.
 
 INT. DIA - ESCRITÓRIO DE FERNANDA #40#
 
-[[arc:"demissao"|"aldeia"|"sumico"|"iluminacao ana"]][[pos:10|21|32|44|54|66|78]]
+[[arc:demissao|aldeia|sumico|iluminacao ana]][[pos:10|21|32|44|54|66|78]]
 [[enforces:41]]
 
 Fernanda em sua mesa, Ana sentada em frente.
@@ -925,14 +925,14 @@ Você ainda tem muito prestígio!
 
 EXT. DIA - FLORESTA #41#
 
-[[arc:"demissao"|"aldeia"|"sumico"|"iluminacao ana"]][[pos:46|56|68]]
+[[arc:demissao|aldeia|sumico|iluminacao ana]][[pos:46|56|68]]
 
 Ana é guiada por um homem de 30 anos com traços indígenas através de uma trilha que atravessa um rio. A trilha se bifurca diversas vezes, ela vê pequenas clareiras.
 
 
 EXT. DIA - FLORESTA #41A#
 
-[[arc:"demissao"|"aldeia"|"sumico"|"iluminacao ana"]][[pos:46|56|58||68]]
+[[arc:demissao|aldeia|sumico|iluminacao ana]][[pos:46|56|58|68]]
 
 
 Ana guiada por um homem de 30 anos com traços indígenas através de uma trilhaAo final chega a uma clareira maior. Um barracão de lona, com apetrechos de cozinha; atrás, uma barraca de camping em mau estado.
@@ -945,7 +945,7 @@ Ana desconfortável. Se incomoda com os insetos.
 
 EXT. DIA - FLORESTA #41B#
 
-[[arc:"demissao"|"aldeia"|"sumico"|"iluminacao ana"]][[pos:47|57|59|69]]
+[[arc:demissao|aldeia|sumico|iluminacao ana]][[pos:47|57|59|69]]
 
 
 Ana faz selfie enquanto espera o pajé.
@@ -953,7 +953,7 @@ Ana faz selfie enquanto espera o pajé.
 
 EXT. DIA - FLORESTA #41C#
 
-[[arc:"demissao"|"aldeia"|"sumico"|"iluminacao ana"]][[pos:47|57|59|69]]
+[[arc:demissao|aldeia|sumico|iluminacao ana]][[pos:47|57|59|69]]
 
 Ana espera o pajé ao lado de uma barraca. Vemos que joao está lendo dentro da barraca.
 
@@ -962,7 +962,7 @@ Ana espera o pajé ao lado de uma barraca. Vemos que joao está lendo dentro da 
 
 INT. DIA - ESCRITÓRIO DE FERNANDA #42#
 
-[[arc:"demissao"|"bento rodrigues"|"iluminacao ana"]][[pos:25|55|65]]
+[[arc:demissao|bento rodrigues|iluminacao ana]][[pos:25|55|65]]
 [[requires:32]]
 
 Fernanda liga para Ana*.
@@ -977,7 +977,7 @@ Sim, deve ser desde a privatização, eles ficaram putos contigo.
 
 INT. DIA - SALA DE ANA #43#
 
-[[arc:"demissao"|"bento rodrigues"|"iluminacao ana"]][[pos:26|56|66]]
+[[arc:demissao|bento rodrigues|iluminacao ana]][[pos:26|56|66]]
 [[requires:42]]
 
 
@@ -987,7 +987,7 @@ Será que me demitiram por alguma coisa que ouviram?
 
 EXT. DIA - BENTO RODRIGUES #44#
 
-[[arc:"demissao"|"bento rodrigues"|"iluminacao ana"|sumico]][[pos:57|67|72]]
+[[arc:demissao|bento rodrigues|iluminacao ana|sumico]][[pos:57|67|72]]
 [[requires:36]]
 
 Ana chega numa cancela que define o limite de até onde o acesso à antiga vila de Bento Rodrigues é possível.
@@ -1042,7 +1042,7 @@ Ana vai para um lugar com vista para as ruínas e observa a antiga vila dali.
 EXT. DIA - RUA DA ZONA SUL #45#
 
 
-[[arc:"namoro"|"prisao"|"sumico"]][[pos:43|45|47]]
+[[arc:namoro|prisao|sumico]][[pos:43|45|47]]
 
 
 Encontra Juliana na rua.  Ela olha a bermuda dele e zomba:
@@ -1056,7 +1056,7 @@ Porra, maior calor, tá doida que vou de calça.
 
 INT. DIA - QUARTO DE JOAO #46#
 
-[[arc:"sumico"|"trilha laura"|"iluminacao ana"]][[pos:67|73]]
+[[arc:sumico|trilha laura|iluminacao ana]][[pos:67|73]]
 
 
 O quarto está completamente desmontado, sem colchão na cama, móveis fora do lugar. É um momento difícil: Ana põe roupas de Joao numa caixa. Ela fecha a caixa, passa uma fita, e leva para a sala. Toda a casa está desmontada: percebe-se que ela está se mudando e Joao* não está.
@@ -1064,7 +1064,7 @@ O quarto está completamente desmontado, sem colchão na cama, móveis fora do l
 
 EXT. DIA - PAINEIRAS #47A#
 
-[[arc:"interludio|"iluminacao ana"|"aldeia"]][[pos:25|55|65]]
+[[arc:interludio|iluminacao ana|aldeia]][[pos:25|55|65]]
 
 
 
@@ -1074,7 +1074,7 @@ Ana anda de bicicleta em uma estrada do Alto. Desfruta a paisagem o vento na car
 
 EXT. DIA - PAINEIRAS #47B#
 
-[[arc:"interludio|"iluminacao ana"]][[pos:18|26|34|46|52|65]]
+[[arc:interludio|iluminacao ana]][[pos:18|26|34|46|52|65]]
 
 
 Ana descansa um pouco da bicicleta. Se senta, olha o celular. Não tem cobertura.
@@ -1082,14 +1082,14 @@ Ana descansa um pouco da bicicleta. Se senta, olha o celular. Não tem cobertura
 
 EXT. DIA - CICLOVIA #48#
 
-[[arc:"interludio"]][[pos:10|16|22|32|48|56|64]]
+[[arc:interludio]][[pos:10|16|22|32|48|56|64]]
 
 Joao anda de bicicleta, distraído.
 
 
 INT. NOITE - COZINHA DE ANA #49#
 
-[[arc:"iluminacao ana"|"trilha laura"]][[pos:22|44|55|62]]
+[[arc:iluminacao ana|trilha laura]][[pos:22|44|55|62]]
 
 
 Ana e Fernanda estão terminando de jantar, tomando um vinho. Fernanda ajuda a tirar a mesa, e leva a louça para a pia.
@@ -1134,14 +1134,14 @@ E desde a PEC das doméstica eu comecei a assinar a carteira dela.
 
 INT. NOITE - SALA DE ANA #49A#
 
-[[arc:"prisao"|"demissao"]][[pos:56|64]]
+[[arc:prisao|demissao]][[pos:56|64]]
 
 Ana e Fernanda estão terminando de jantar, tomando um vinho. Ana conta que joao foi preso.
 
 
 INT. NOITE - SALA DE ANA #49B#
 
-[[arc:"sumico"|"iluminacao ana"|"demissao"]][[pos:34|44]]
+[[arc:sumico|iluminacao ana|demissao]][[pos:34|44]]
 
 
 
@@ -1150,7 +1150,7 @@ Ana e Fernanda estão terminando de jantar, tomando um vinho. Ana conta que est�
 
 INT. DIA - QUARTO DE JOAO #50#
 
-[[arc:"relacao ana e joao"|"iluminacao ana"|"pele"]][[pos:1|10|70]]
+[[arc:relacao ana e joao|iluminacao ana|pele]][[pos:1|10|70]]
 
 Close-up: mãos femininas tentam espremer uma espinha nas coisas de outra pessoa. Em seguida closes dos rostos, detalhes de peles
 
@@ -1196,7 +1196,7 @@ Pfff tá, mãe.
 INT. DIA - SALA DE ANA #51#
 
 
-[[arc:"demissao"|"pele"|"sumico"|"iluminacao ana"]][[pos:1|5|45|55]]
+[[arc:demissao|pele|sumico|iluminacao ana]][[pos:1|5|45|55]]
 
 
 
@@ -1221,7 +1221,7 @@ Mas como eu vou ter pego alguma coisa? Faz tempo que não vou no mato ou na prai
 
 INT. DIA - CONSULTÓRIO DE DERMATOLOGIA 1 #52#
 
-[[arc:"demissao"|"pele"|"sumico"|"iluminacao ana"]][[pos:25|45|55]]
+[[arc:demissao|pele|sumico|iluminacao ana]][[pos:25|45|55]]
 [[enforces:54]]
 
 
@@ -1251,7 +1251,7 @@ OK.
 
 INT. DIA - CONSULTÓRIO DE DERMATOLOGIA 2 #53#
 
-[[arc:"demissao"|"pele"|"sumico"|"iluminacao ana"]][[pos:25|50|60]]
+[[arc:demissao|pele|sumico|iluminacao ana]][[pos:25|50|60]]
 
 
 Ana conversa com o segundo médico.
@@ -1275,7 +1275,7 @@ Ana se frustra.
 
 INT. DIA - CONSULTÓRIO DE DERMATOLOGIA 1 #54#
 
-[[arc:"demissao"|"pele"|"sumico"|"iluminacao ana"]][[pos:55|65|72]]
+[[arc:demissao|pele|sumico|iluminacao ana]][[pos:55|65|72]]
 [[requires:52]]
 
 
@@ -1314,7 +1314,7 @@ Não. Não precisa. Vou pensar.
 
 INT. NOITE - BANHEIRO DE ANA #55#
 
-[[arc:"demissao"|"pele"|"sumico"|"iluminacao ana"]][[pos:1|65|75]]
+[[arc:demissao|pele|sumico|iluminacao ana]][[pos:1|65|75]]
 [[requires:52]]
 
 
@@ -1327,42 +1327,42 @@ A campainha do apartamento toca.
 
 INT. DIA - BARRACA NA FLORESTA #56#
 
-[[arc:"traicao"|"sumico"][[pos:55|65|72]]
+[[arc:traicao|sumico]][[pos:55|65|72]]
 
 Joao acorda em uma barraca. Um saco de dormir vazio ao seu lado. Abre a porta. Está em uma floresta
 
 
 INT. DIA - BARRACA #56A#
 
-[[arc:"traicao"|"sumico"][[pos:55|65|72]]
+[[arc:traicao|sumico]][[pos:55|65|72]]
 
 Joao lê um livro em uma barraca.
 
 
 INT. DIA - HALL DO ELEVADOR #57#
 
-[[arc:"traicao"|"sumico"][[pos:66|73]]
+[[arc:traicao|sumico]][[pos:66|73]]
 
 Joao, com barba, está em um hall de elevador esperando que abram a porta de um apartamento.
 
 
 INT. NOITE - BARRACA #58#
 
-[[arc:"traicao"|"sumico"|"namoro"][[pos:25|35|65]]
+[[arc:traicao|sumico|namoro]][[pos:25|35|65]]
 
 
 Juliana vê Joao dormir dentro da barraca, em lugar indefinido.
 
 INT./EXT. DIA- BARRACA NA PRAIA #59#
 
-[[arc:sumico"|"namoro"][[pos:24|35|72]]
+[[arc:sumico|namoro]][[pos:24|35|72]]
 
 Joao está dormindo em uma barraca com muita luz. Abre a porta e vê que está em uma praia. Olha em volta e vê Juliana entrando na água.
 
 
 EXT. DIA - BARRACA NA PRAIA #59A#
 
-[[arc:"traicao"|"sumico"|"namoro"|"interludio"[[pos:2|5|15|25|55|62]]
+[[arc:traicao|sumico|namoro|interludio]][[pos:2|5|15|25|55|62]]
 
 
 Barraca numa praia isolada.
@@ -1370,14 +1370,14 @@ Barraca numa praia isolada.
 
 EXT. DIA - BARRACA NA PRAIA #59B#
 
-[[arc:"traicao"|"sumico"|"namoro"|"interludio"]][[pos:25|55|62]]
+[[arc:traicao|sumico|namoro|interludio]][[pos:25|55|62]]
 
 Barraca no praia da cidade.
 
 
 INT. DIA - ESTUDIO #60#
 
-[[arc:"sumico"|"iluminacao ana"|"namoro"]][[pos:47|57|63]]
+[[arc:sumico|iluminacao ana|namoro]][[pos:47|57|63]]
 
 
 Estudio. Camera se aproxima de Ana. É a chamada de um programa.
@@ -1387,7 +1387,7 @@ Boa noite, gente. Hoje vamos falar de uma tema muito polêmico: as manifestaçõ
 
 INT. DIA - SALA DE ANA #61#
 
-[[arc:"sumico"|"traicao"|"namoro"]][[pos:42|52|65]]
+[[arc:sumico|traicao|namoro]][[pos:42|52|65]]
 
 Joao e Juliana assistem Tv na casa de Joao. Ele tem uma reação negativa ao que vê e desliga.
 
@@ -1402,7 +1402,7 @@ Juliana sai e deixa o celular na sala. Ele não resiste, olha o celular dela e v
 
 EXT. DIA - ENTRADA DE METRO #62#
 
-[[arc:"sumico"|"traicao"|"namoro"]][[pos:43|52|61]]
+[[arc:sumico|traicao|namoro]][[pos:43|52|61]]
 [[requires:16]]
 
 Joao andando de bicicleta em uma rua. Sem parar ele nota alguma coisa fora de quadro e olha fixamente, diminuindo a bicicleta até parar.
@@ -1413,54 +1413,54 @@ Joao fica triste.
 
 INT. NOITE - SALA DE ANA #63#
 
-[[arc:"sumico"]][[pos:53|59]]
+[[arc:sumico]][[pos:53|59]]
 
 Ana acha um bilhete de Joao* em casa. Senta para ler, impactada. Não lemos o conteúdo do bilhete.
 
 EXT. NOITE - RUA #64#
 
-[[arc:"namoro"]][[pos:72]]
+[[arc:namoro]][[pos:72]]
 
 Joao e Juliana picham "Fora Temer"
 
 
 EXT. NOITE - RUA #64A#
 
-[[arc:"traicao"|"sumico"]][[pos:68|73]]
+[[arc:traicao|sumico]][[pos:68|73]]
 
 Joao tenta pichar alguma coisa mas o spray falha.
 
 
 EXT. NOITE - RUA #64B#
 
-[[arc:"namoro"]][[pos:76]]
+[[arc:namoro]][[pos:76]]
 
 Joao e Juliana picham #elenão.
 
 
 EXT. DIA - RUA DA JULIANA #65#
 
-[[arc:"namoro"|"traicao"|"sumico"]][[pos:3|6]]
+[[arc:namoro|traicao|sumico]][[pos:3|6]]
 
 
 Juliana sai de uma casa simples, com uma mochila nas costas. Está indo para a universidade.
 
 EXT. DIA - RUA DA JULIANA #65B#
 
-[[arc:"namoro"|"traicao"|"sumico"]][[pos:8]]
+[[arc:namoro|traicao|sumico]][[pos:8]]
 
 Juliana volta para casa.
 
 
 INT. NOITE - SALA DE ANA #66#
 
-[[arc:"namoro"|"traicao"|"sumico"|"interludio"]][[pos:12|38|52]]
+[[arc:namoro|traicao|sumico|interludio]][[pos:12|38|52]]
 
 Joao assiste TV em casa.
 
 INT. NOITE - SALA DE ANA #67#
 
-[[arc:"namoro"|"traicao"|"sumico"|"iluminacao ana"]][[pos:12|38|52]]
+[[arc:namoro|traicao|sumico|iluminacao ana]][[pos:12|38|52]]
 [[enforces:69]]
 
 Juliana e Marcos conversam com Ana em sua casa.
@@ -1496,13 +1496,13 @@ E hoje não concordo com alguma coisas que fiz e acho que as pessoas deveriam sa
 
 INT. NOITE - SALA DE ANA #68#
 
-[[arc:"demissao"|"iluminacao ana"|"prisao"]][[pos:33|54|66]]
+[[arc:demissao|iluminacao ana|prisao]][[pos:33|54|66]]
 
 Ana em casa, olha seu crachá.
 
 INT. DIA - ESTUDIO #69#
 
-[[arc:"demissao"|"iluminacao ana"]][[pos:33|54|66]]
+[[arc:demissao|iluminacao ana]][[pos:33|54|66]]
 [[requires:67]]
 
 É o início do programa. Vemos Marcos sentado, pronto para ser sabatinado. Ana apresenta.
@@ -1513,7 +1513,7 @@ Boa noite. Depois de muito tempo, vamos voltar hoje ao tema das manifestações 
 
 INT. NOITE - SALA DE ANA #70#
 
-[[arc:"prisao"|"sumico"|"interludio"]][[pos:33|44|54]]
+[[arc:prisao|sumico|interludio]][[pos:33|44|54]]
 
 
 Joao assiste TV. Reage a algo que acabou de ver. Levanta, desliga o aparelho e sai de quadro.
@@ -1521,7 +1521,7 @@ Joao assiste TV. Reage a algo que acabou de ver. Levanta, desliga o aparelho e s
 
 INT. NOITE - SALA DE ANA #70A#
 
-[[arc:"iluminacao ana"|"interludio"]][[pos:33|44|54]]
+[[arc:iluminacao ana|interludio]][[pos:33|44|54]]
 
 
 Ana assiste TV.
@@ -1529,7 +1529,7 @@ Ana assiste TV.
 
 INT. NOITE - SALA DE ANA #70B#
 
-[[arc:"iluminacao ana"|"interludio"]][[pos:33|44|54|73]]
+[[arc:iluminacao ana|interludio]][[pos:33|44|54|73]]
 
 
 Ana assiste TV. Reage a algo que acabou de ver. Levanta, desliga o aparelho e sai de quadro.
@@ -1538,14 +1538,14 @@ Ana assiste TV. Reage a algo que acabou de ver. Levanta, desliga o aparelho e sa
 EXT. NOITE - RUA #71#
 
 
-[[arc:"traicao"|"sumico"|"namoro"]][[pos:55|65|75]]
+[[arc:traicao|sumico|namoro]][[pos:55|65|75]]
 
 Juliana picha "Marielle Presente"
 
 
 EXT. NOITE - RUA #71A#
 
-[[arc:"traicao"|"sumico"|"namoro"]][[pos:45|55]]
+[[arc:traicao|sumico|namoro]][[pos:45|55]]
 
 
 Juliana picha "Cadê o Amarildo"
@@ -1553,7 +1553,7 @@ Juliana picha "Cadê o Amarildo"
 
 EXT. NOITE - RUA #72#
 
-[[arc:"traicao"|"sumico"|"namoro"|"interludio"]][[pos:55|65|69]]
+[[arc:traicao|sumico|namoro|interludio]][[pos:55|65|69]]
 
 
 Joao picha "Não vai ter golpe"
@@ -1562,7 +1562,7 @@ Joao picha "Não vai ter golpe"
 EXT. NOITE - RUA #73#
 
 
-[[arc:"traicao"|"sumico"|"namoro"|"interludio"]][[pos:72|74]]
+[[arc:traicao|sumico|namoro|interludio]][[pos:72|74]]
 
 Joao picha "Lula livre"
 
@@ -1571,7 +1571,7 @@ Joao picha "Lula livre"
 
 INT. NOITE - SALA DE ANA #75#
 
-[[arc:"trilha laura"|"iluminacao ana"| "pele"]][[pos:38|44|54]]
+[[arc:trilha laura|iluminacao ana|pele]][[pos:38|44|54]]
 
 
 Ana e Joao jantam. Joao corta um pedaço do bife e põe na boca. Ele faz uma careta olhando para Ana. Ana reage, corta uma pedaço e prova também. Ela reage negativamente.
@@ -1591,7 +1591,7 @@ Joao faz uma careta de asco e separa o bife.
 
 INT. DIA - BANHEIRO DE ANA #76#
 
-[[arc:"trilha laura"|"iluminacao ana"| "pele"]][[pos:40|47|58]]
+[[arc:trilha laura|iluminacao ana|pele]][[pos:40|47|58]]
 
 
 Ana escova os dentes se olhando no espelho. Abre o armário do espelho para buscar alguma coisa e um encontra uma sandália. Ela fecha o espelho e vemos se reação de contrariedade. Olha para fora do quadro.
@@ -1603,7 +1603,7 @@ Laura!
 INT. DIA - SALA DE ANA #77#
 
 
-[[arc:"trilha laura"|"iluminacao ana"| "pele"]][[pos:39|46|59]]
+[[arc:trilha laura|iluminacao ana|pele]][[pos:39|46|59]]
 
 
 Ana procura alguma coisa na sala. Olha prateleiras, vasos, frestas do sofá.
@@ -1643,7 +1643,7 @@ Joao franze a testa - "eu disse".
 INT. DIA - SALA DE ANA #80#
 
 
-[[arc:"trilha laura"|"iluminacao ana"| "pele"]][[pos:52|58]]
+[[arc:trilha laura|iluminacao ana|pele]][[pos:52|58]]
 
 Ana almoça. Laura se aproxima, vinda da cozinha. Ela para e observa um pouco Ana com orgulho.
 
@@ -1679,7 +1679,7 @@ Laura sai para a cozinha, ofendida.
 
 INT. DIA - SALA DE ANA #81#
 
-[[arc:"trilha laura"|"iluminacao ana"| "pele"]][[pos:60|63]]
+[[arc:trilha laura|iluminacao ana|pele]][[pos:60|63]]
 
 
 Ana ao telefone.
@@ -1707,7 +1707,7 @@ Tá bem surda mesmo.
 
 EXT. DIA - RUA DE TERRA #82#
 
-[[arc:"trilha laura"|"iluminacao ana"| "pele"]][[pos:65|67]]
+[[arc:trilha laura|iluminacao ana|pele]][[pos:65|67]]
 [[requires:81]]
 
 SOM OFF: Ouve-se um barulho de carro parando, uma porta abre.
@@ -1773,7 +1773,7 @@ Ele se surpreende com a pergunta.
 
 INT. DIA - QUARTO DE JOAO - #83#
 
-[[arc:"trilha laura"|"iluminacao ana"| "pele"]][[pos:67|70]]
+[[arc:trilha laura|iluminacao ana|pele]][[pos:67|70]]
 
 
 O quarto de Joao* já não tem suas coisas. Está adaptado para hospedar a Laura. Ela está deitada numa cama de hospital que ocupa quase todo o quarto. Ana entra.
@@ -1795,7 +1795,7 @@ Ana sorri.
 
 INT. DIA - SALA DE ANA - #84#
 
-[[arc:"trilha laura"|"iluminacao ana"| "pele"]][[pos:66|69|71]]
+[[arc:trilha laura|iluminacao ana|pele]][[pos:66|69|71]]
 
 
 Ana recolhe roupas do varal.
@@ -1803,7 +1803,7 @@ Ana recolhe roupas do varal.
 
 INT. DIA - COZINHA DE ANA - #85#
 
-[[arc:"trilha laura"|"iluminacao ana"| "pele"]][[pos:63|70|73]]
+[[arc:trilha laura|iluminacao ana|pele]][[pos:63|70|73]]
 
 
 Ana vê a pia cheia de louça mas não tem disposição para lavar.
@@ -1811,14 +1811,14 @@ Ana vê a pia cheia de louça mas não tem disposição para lavar.
 
 INT. DIA - ÁREA DE ANA - #86#
 
-[[arc:"trilha laura"|"iluminacao ana"| "pele"]][[pos:63|71|74]]
+[[arc:trilha laura|iluminacao ana|pele]][[pos:63|71|74]]
 
 Ana recolhe roupas do varal.
 
 
 INT. DIA - SALA DE ANA - #87#
 
-[[arc:"relacao ana e joao"|"iluminacao ana"| "pele"]][[pos:22|33|75]]
+[[arc:relacao ana e joao|iluminacao ana|pele]][[pos:22|33|75]]
 
 
 Ana vê posts de haters em sua página. Joao a aconselha a não reagir.
@@ -1826,14 +1826,14 @@ Ana vê posts de haters em sua página. Joao a aconselha a não reagir.
 
 INT. DIA - SALA DE ANA - #88#
 
-[[arc:"namoro"|"sumico"| "pele"]][[pos:22|33|44]]
+[[arc:namoro|sumico|pele]][[pos:22|33|44]]
 
 Joao e Juliana assistem TV. Juliana faz comentário negativo sobre a emissora de Ana.
 
 
 INT. DIA - COZINHA DE ANA - #89#
 
-[[arc:"interludio"]][[pos:33|44|55|66|75]]
+[[arc:interludio]][[pos:33|44|55|66|75]]
 
 
 Chaleira ferve.
@@ -1841,7 +1841,7 @@ Chaleira ferve.
 
 INT. DIA - SALA DE ANA - #89B#
 
-[[arc:"interludio"|"iluminacao ana"|"pele"]][[pos:33|44|55|66|75]]
+[[arc:interludio|iluminacao ana|pele]][[pos:33|44|55|66|75]]
 
 Ana toma chá. Celular sobre a mesa.
 
@@ -1849,7 +1849,7 @@ Ana toma chá. Celular sobre a mesa.
 INT. DIA - SALA DE ANA - #89C#
 
 
-[[arc:"interludio"|"iluminacao ana"|"pele"]][[pos:55|61|72]]
+[[arc:interludio|iluminacao ana|pele]][[pos:55|61|72]]
 
 
 Ana toma chá. Celular sobre a mesa. Abre a cortina.
@@ -1857,7 +1857,7 @@ Ana toma chá. Celular sobre a mesa. Abre a cortina.
 
 INT. DIA - SALA DE ANA - #89D#
 
-[[arc:"interludio"|"iluminacao ana"|"pele"]][[pos:55|61|72]]
+[[arc:interludio|iluminacao ana|pele]][[pos:55|61|72]]
 
 
 Celular sobre a mesa.
@@ -1865,7 +1865,7 @@ Celular sobre a mesa.
 
 INT. NOITE - SALA DE ANA - #91#
 
-[[arc:"pele"|"prisao"|"demissao"]][[pos:48|57]]
+[[arc:pele|prisao|demissao]][[pos:48|57]]
 
 Ana e Joao discutem sobre Black Blocks e a prisão dele.
 
@@ -1873,7 +1873,7 @@ Ana e Joao discutem sobre Black Blocks e a prisão dele.
 
 INT. NOITE - SALA DE ANA - #92#
 
-[[arc:"pele"|"prisao"|"demissao"|"relacao ana e joao"]][[pos:52|55]]
+[[arc:pele|prisao|demissao|relacao ana e joao]][[pos:52|55]]
 
 
 Ana no telefone, fala com Joao na prisão.
@@ -1881,7 +1881,7 @@ Ana no telefone, fala com Joao na prisão.
 
 INT. DIA - SALA DE ANA - #93#
 
-[[arc:"iluminacao ana"]][[pos:53|64|71]]
+[[arc:iluminacao ana]][[pos:53|64|71]]
 
 
 Ana olha o mar do apartamento.
@@ -1890,14 +1890,14 @@ Ana olha o mar do apartamento.
 INT. DIA - SALA DE ANA - #93B#
 
 
-[[arc:"iluminacao ana"|"interludio"]][[pos:56|67|72]]
+[[arc:iluminacao ana|interludio]][[pos:56|67|72]]
 O mar emoldurado pela janela.
 
 
 
 INT. DIA - SALA DE ANA - #94#
 
-[[arc:"iluminacao ana"|"interludio"]][[pos:42|56|67|72]]
+[[arc:iluminacao ana|interludio]][[pos:42|56|67|72]]
 
 
 Vista da cidade.
@@ -1906,7 +1906,7 @@ Vista da cidade.
 INT. DIA - SALA DE ANA - #95#
 
 
-[[arc:"interludio"]][[pos:42|56|67|72]]
+[[arc:interludio]][[pos:42|56|67|72]]
 
 Cortina, praia, vista.
 
@@ -1914,14 +1914,14 @@ Cortina, praia, vista.
 INT. DIA - SALA DE ANA - #96#
 
 
-[[arc:"iluminacao ana"|"interludio"]][[pos:42|56|67|72]]
+[[arc:iluminacao ana|interludio]][[pos:42|56|67|72]]
 
 Ana olha o mar.
 
 
 INT. DIA - SALA DE ANA - #96B#
 
-[[arc:"iluminacao ana"|"interludio"]][[pos:42|56|67|72]]
+[[arc:iluminacao ana|interludio]][[pos:42|56|67|72]]
 
 
 Ana olha o mar, com referência da janela.
@@ -1930,7 +1930,7 @@ Ana olha o mar, com referência da janela.
 
 INT. DIA - SALA DE ANA - #96C#
 
-[[arc:"iluminacao ana"|"interludio"]][[pos:42|56|67|72]]
+[[arc:iluminacao ana|interludio]][[pos:42|56|67|72]]
 
 Ana olha o mar, mas não vemos fora.
 
@@ -1938,7 +1938,7 @@ Ana olha o mar, mas não vemos fora.
 
 EXT. DIA - PÁTIO INTERNO - #97#
 
-[[arc:"interludio"]][[pos:21|33|44]]
+[[arc:interludio]][[pos:21|33|44]]
 
 Pátio interno do edifício.
 
@@ -1946,13 +1946,13 @@ Pátio interno do edifício.
 
 INT. DIA - CAFÉ - #98#
 
-[[arc:"iluminacao ana"|"demissao"]][[pos:67|72|75]]
+[[arc:iluminacao ana|demissao]][[pos:67|72|75]]
 
 Ana conta para Fernanda a experiência na floresta.
 
 
 INT. DIA - CAFÉ - #99#
 
-[[arc:"interludio"|"alarme"]][[pos:11|32|44|62]]
+[[arc:interludio|alarme]][[pos:11|32|44|62]]
 
 Ana deixa cair uma taça e ela se quebra no chão.
