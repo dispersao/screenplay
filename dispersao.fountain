@@ -1,4 +1,4 @@
-]][Title:
+*]][Title:
     _**DISPERSÃO**_
 Credit: Projeto de
 Author: Bruno Vianna
@@ -290,6 +290,7 @@ EXT. DIA - CINELÂNDIA #12C#
 
 
 [[arc:sumico|namoro|traicao|prisao]][[pos:25|30|32]]
+[[requires:25]]
 
 Um criança de um ano passeia pela OcupaRio.
 
@@ -429,6 +430,7 @@ Joao entende. Não questiona mais.
 EXT. DIA - TAXI NO TRÂNSITO #18#
 
 [[arc:iluminacao ana|demissao|prisao]][[pos:30|40|50|60|62]]
+[[requires:99]]
 
 Ana distraída no banco de trás. Olha a paisagem estourando plástico bolha.
 
@@ -549,14 +551,16 @@ Sim. Entendi. Claro, vou tentar, mas não tenho ideia de como ele vai reagir.
 
 EXT. DIA - CICLOVIA #24#
 
-[[arc:interludio]][[pos:8|18|28|38|48|58]]
+[[arc:*]][[pos:8|18|28|38|48|58]]
+[[requires:99]]
+
 
 Ana anda de bicicleta, um pouco tensa.
 
 
 INT. DIA - VARANDA DE ANA #25#
 
-[[arc:alarme]][[pos:9|19|29|39|49|59]]
+[[pos:9|19|29|39|49|59]]
 
 Joao derruba um vaso da varanda da casa. Ele quebra, espalhando terra, fazendo muito barulho. Ele se irrita, chama a empregada.
 
@@ -566,14 +570,14 @@ Laura!
 
 INT. DIA - COZINHA DE ANA #26#
 
-[[arc:alarme]][[pos:9|19|29|39|49|59]]
+[[pos:9|19|29|39|49|59]]
 
 Laura está secando um grande tabuleiro de alumínio. Ele o deixa cair no chão. Faz um barulho imenso. Ela chega a se assustar.
 
 
 INT. DIA - SALA DE ANA #27#
 
-[[arc:alarme]][[pos:9|19|29|39|49|59]]
+[[pos:9|19|29|39|49|59]]
 
 
 Ana está na cama tomando uma xicará de chá. Quando vai colocar a xícara na mesa de cabeceira, ela a deixa cair no chão. Faz um barulho horrível. Ela suspira.
@@ -892,7 +896,8 @@ Ana suspira. A decepção, ela quer chorar. Fernanda a abraça.
 
 INT. DIA - CAFÉ #39A#
 
-[[arc:interludio]][[pos:10|21|32|44|54|66|78]]
+[[arc:*]][[pos:10|21|32|44|54|66|78]]
+[[requires:26]]
 
 
 Ana e Fernanda no café, olhando seus celulares.
@@ -926,6 +931,7 @@ Você ainda tem muito prestígio!
 EXT. DIA - FLORESTA #41#
 
 [[arc:demissao|aldeia|sumico|iluminacao ana]][[pos:46|56|68]]
+[[requires:99]]
 
 Ana é guiada por um homem de 30 anos com traços indígenas através de uma trilha que atravessa um rio. A trilha se bifurca diversas vezes, ela vê pequenas clareiras.
 
@@ -1064,7 +1070,7 @@ O quarto está completamente desmontado, sem colchão na cama, móveis fora do l
 
 EXT. DIA - PAINEIRAS #47A#
 
-[[arc:interludio|iluminacao ana|aldeia]][[pos:25|55|65]]
+[[arc:*|iluminacao ana|aldeia]][[pos:25|55|65]]
 
 
 
@@ -1074,7 +1080,7 @@ Ana anda de bicicleta em uma estrada do Alto. Desfruta a paisagem o vento na car
 
 EXT. DIA - PAINEIRAS #47B#
 
-[[arc:interludio|iluminacao ana]][[pos:18|26|34|46|52|65]]
+[[arc:*|iluminacao ana]][[pos:18|26|34|46|52|65]]
 
 
 Ana descansa um pouco da bicicleta. Se senta, olha o celular. Não tem cobertura.
@@ -1082,7 +1088,8 @@ Ana descansa um pouco da bicicleta. Se senta, olha o celular. Não tem cobertura
 
 EXT. DIA - CICLOVIA #48#
 
-[[arc:interludio]][[pos:10|16|22|32|48|56|64]]
+[[arc:*]][[pos:10|16|22|32|48|56|64]]
+[[requires:26]]
 
 Joao anda de bicicleta, distraído.
 
@@ -1335,6 +1342,7 @@ Joao acorda em uma barraca. Um saco de dormir vazio ao seu lado. Abre a porta. E
 INT. DIA - BARRACA #56A#
 
 [[arc:traicao|sumico]][[pos:55|65|72]]
+[[requires:27]]
 
 Joao lê um livro em uma barraca.
 
@@ -1349,6 +1357,7 @@ Joao, com barba, está em um hall de elevador esperando que abram a porta de um 
 INT. NOITE - BARRACA #58#
 
 [[arc:traicao|sumico|namoro]][[pos:25|35|65]]
+[[requires:99]]
 
 
 Juliana vê Joao dormir dentro da barraca, em lugar indefinido.
@@ -1362,7 +1371,7 @@ Joao está dormindo em uma barraca com muita luz. Abre a porta e vê que está e
 
 EXT. DIA - BARRACA NA PRAIA #59A#
 
-[[arc:traicao|sumico|namoro|interludio]][[pos:2|5|15|25|55|62]]
+[[arc:traicao|sumico|namoro|*]][[pos:2|5|15|25|55|62]]
 
 
 Barraca numa praia isolada.
@@ -1370,7 +1379,7 @@ Barraca numa praia isolada.
 
 EXT. DIA - BARRACA NA PRAIA #59B#
 
-[[arc:traicao|sumico|namoro|interludio]][[pos:25|55|62]]
+[[arc:traicao|sumico|namoro|*]][[pos:25|55|62]]
 
 Barraca no praia da cidade.
 
@@ -1454,7 +1463,7 @@ Juliana volta para casa.
 
 INT. NOITE - SALA DE ANA #66#
 
-[[arc:namoro|traicao|sumico|interludio]][[pos:12|38|52]]
+[[arc:namoro|traicao|sumico|*]][[pos:12|38|52]]
 
 Joao assiste TV em casa.
 
@@ -1513,7 +1522,7 @@ Boa noite. Depois de muito tempo, vamos voltar hoje ao tema das manifestações 
 
 INT. NOITE - SALA DE ANA #70#
 
-[[arc:prisao|sumico|interludio]][[pos:33|44|54]]
+[[arc:prisao|sumico|*]][[pos:33|44|54]]
 
 
 Joao assiste TV. Reage a algo que acabou de ver. Levanta, desliga o aparelho e sai de quadro.
@@ -1521,7 +1530,7 @@ Joao assiste TV. Reage a algo que acabou de ver. Levanta, desliga o aparelho e s
 
 INT. NOITE - SALA DE ANA #70A#
 
-[[arc:iluminacao ana|interludio]][[pos:33|44|54]]
+[[arc:iluminacao ana|*]][[pos:33|44|54]]
 
 
 Ana assiste TV.
@@ -1529,7 +1538,7 @@ Ana assiste TV.
 
 INT. NOITE - SALA DE ANA #70B#
 
-[[arc:iluminacao ana|interludio]][[pos:33|44|54|73]]
+[[arc:iluminacao ana|*]][[pos:33|44|54|73]]
 
 
 Ana assiste TV. Reage a algo que acabou de ver. Levanta, desliga o aparelho e sai de quadro.
@@ -1553,7 +1562,7 @@ Juliana picha "Cadê o Amarildo"
 
 EXT. NOITE - RUA #72#
 
-[[arc:traicao|sumico|namoro|interludio]][[pos:55|65|69]]
+[[arc:traicao|sumico|namoro]][[pos:55|65|69]]
 
 
 Joao picha "Não vai ter golpe"
@@ -1562,7 +1571,7 @@ Joao picha "Não vai ter golpe"
 EXT. NOITE - RUA #73#
 
 
-[[arc:traicao|sumico|namoro|interludio]][[pos:72|74]]
+[[arc:traicao|sumico|namoro]][[pos:72|74]]
 
 Joao picha "Lula livre"
 
@@ -1814,7 +1823,7 @@ INT. DIA - ÁREA DE ANA - #86#
 [[arc:trilha laura|iluminacao ana|pele]][[pos:63|71|74]]
 
 Ana recolhe roupas do varal.
-
+[[requires:26]]
 
 INT. DIA - SALA DE ANA - #87#
 
@@ -1833,7 +1842,7 @@ Joao e Juliana assistem TV. Juliana faz comentário negativo sobre a emissora de
 
 INT. DIA - COZINHA DE ANA - #89#
 
-[[arc:interludio]][[pos:33|44|55|66|75]]
+[[arc:*]][[pos:33|44|55|66|75]]
 
 
 Chaleira ferve.
@@ -1841,7 +1850,7 @@ Chaleira ferve.
 
 INT. DIA - SALA DE ANA - #89B#
 
-[[arc:interludio|iluminacao ana|pele]][[pos:33|44|55|66|75]]
+[[arc:|iluminacao ana|pele|*]][[pos:33|44|55|66|75]]
 
 Ana toma chá. Celular sobre a mesa.
 
@@ -1849,7 +1858,7 @@ Ana toma chá. Celular sobre a mesa.
 INT. DIA - SALA DE ANA - #89C#
 
 
-[[arc:interludio|iluminacao ana|pele]][[pos:55|61|72]]
+[[arc:|iluminacao ana|pele|*]][[pos:55|61|72]]
 
 
 Ana toma chá. Celular sobre a mesa. Abre a cortina.
@@ -1857,7 +1866,7 @@ Ana toma chá. Celular sobre a mesa. Abre a cortina.
 
 INT. DIA - SALA DE ANA - #89D#
 
-[[arc:interludio|iluminacao ana|pele]][[pos:55|61|72]]
+[[arc:|iluminacao ana|pele|*]][[pos:55|61|72]]
 
 
 Celular sobre a mesa.
@@ -1881,7 +1890,7 @@ Ana no telefone, fala com Joao na prisão.
 
 INT. DIA - SALA DE ANA - #93#
 
-[[arc:iluminacao ana]][[pos:53|64|71]]
+[[arc:iluminacao ana|*]][[pos:53|64|71]]
 
 
 Ana olha o mar do apartamento.
@@ -1890,14 +1899,14 @@ Ana olha o mar do apartamento.
 INT. DIA - SALA DE ANA - #93B#
 
 
-[[arc:iluminacao ana|interludio]][[pos:56|67|72]]
+[[arc:iluminacao ana|*]][[pos:56|67|72]]
 O mar emoldurado pela janela.
 
 
 
 INT. DIA - SALA DE ANA - #94#
 
-[[arc:iluminacao ana|interludio]][[pos:42|56|67|72]]
+[[arc:iluminacao ana|*]][[pos:42|56|67|72]]
 
 
 Vista da cidade.
@@ -1906,7 +1915,7 @@ Vista da cidade.
 INT. DIA - SALA DE ANA - #95#
 
 
-[[arc:interludio]][[pos:42|56|67|72]]
+[[arc:*]][[pos:42|56|67|72]]
 
 Cortina, praia, vista.
 
@@ -1914,14 +1923,14 @@ Cortina, praia, vista.
 INT. DIA - SALA DE ANA - #96#
 
 
-[[arc:iluminacao ana|interludio]][[pos:42|56|67|72]]
+[[arc:iluminacao ana|*]][[pos:42|56|67|72]]
 
 Ana olha o mar.
 
 
 INT. DIA - SALA DE ANA - #96B#
 
-[[arc:iluminacao ana|interludio]][[pos:42|56|67|72]]
+[[arc:iluminacao ana|*]][[pos:42|56|67|72]]
 
 
 Ana olha o mar, com referência da janela.
@@ -1930,7 +1939,7 @@ Ana olha o mar, com referência da janela.
 
 INT. DIA - SALA DE ANA - #96C#
 
-[[arc:iluminacao ana|interludio]][[pos:42|56|67|72]]
+[[arc:iluminacao ana|*]][[pos:42|56|67|72]]
 
 Ana olha o mar, mas não vemos fora.
 
@@ -1938,7 +1947,7 @@ Ana olha o mar, mas não vemos fora.
 
 EXT. DIA - PÁTIO INTERNO - #97#
 
-[[arc:interludio]][[pos:21|33|44]]
+[[arc:*]][[pos:21|33|44]]
 
 Pátio interno do edifício.
 
@@ -1953,7 +1962,7 @@ Ana conta para Fernanda a experiência na floresta.
 
 INT. DIA - CAFÉ - #99#
 
-[[arc:interludio|alarme]][[pos:11|32|44|62]]
+[[pos:11|32|44|62]]
 
 Ana deixa cair uma taça e ela se quebra no chão.
 
