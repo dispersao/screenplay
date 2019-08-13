@@ -84,7 +84,7 @@ Joao sorri.
 EXT. DIA - SALA DE ANA  #3#
 
 
-[[arc:trilha laura|iluminacao ana]][[pos:6|8|10|12|15|20|25]]
+[[arc:trilha laura|iluminacao ana]][[pos:7|8|10|12|15|20|25]]
 
 
 Laura serve o café da manhã, de uniforme. Uma televisão exibe um telejornal matinal. Ana comenta as notícias políticas.
@@ -102,7 +102,7 @@ Nós, Laura, você é da família, né?
 
 INT. DIA - ESCRITÓRIO DE FERNANDA  #4#
 
-[[arc:demissao|iluminacao ana]][[pos:3|4|6|8|10|15|20]]
+[[arc:demissao|iluminacao ana]][[pos:3|4|7|8|10|15|20]]
 
 Fernanda dá um tour da agência dela.
 
@@ -187,7 +187,7 @@ Ana dá um sorriso de desprezo e sai.
 
 INT./EXT. DIA - CINELÂNDIA #10#
 
-[[arc:sumico|namoro|traicao|prisao]][[pos:22|25|30|32]]
+[[arc:sumico|namoro|traicao|prisao]][[pos:22|25|28|32]]
 
 
 Dentro de uma barraca, Joao acorda. Aos poucos, começa a se escutar ruídos de rua. Carros, pessoas conversando. Joao se levanta e senta, espreguiçando. Ele escuta a voz de Juliana fazendo um tipo de discurso. Abre a porta da barraca: estamos na Cinelândia, diversas barracas estão montadas. Joao sai. Juliana está falando, sentada em um círculo com cerca de 30 pessoas, propondo plantar uma horta na praça. No centro do círculo, vários cartazes espalhados no chão com palavras de ordem.  Ela termina de falar, as pessoas aplaudem abanando as mãos.
@@ -195,7 +195,7 @@ Dentro de uma barraca, Joao acorda. Aos poucos, começa a se escutar ruídos de 
 
 INT. NOITE - INTERIOR DE PRÉDIO ABANDONADO #11#
 
-[[arc:sumico|namoro|traicao|prisao]][[pos:30|33|37|40|42]]
+[[arc:sumico|namoro|traicao|prisao]][[pos:28|33|37|40|42]]
 [[blocks:15]][[requires:14]]
 
 Juliana e Joao olham a vista para a cidade de um andar alto do edifício.
@@ -244,7 +244,7 @@ Não é assim, também.
 
 
 EXT. DIA - CINELÂNDIA #12#
-[[arc:sumico|namoro|traicao|prisao]][[pos:25|30|32]]
+[[arc:sumico|namoro|traicao|prisao]][[pos:25|28|32]]
 
 
 Fim de tarde: uma assembleia discute o futuro da ocupação. Entre os participantes notam-se diversos moradores de rua. Outros usam máscaras estilo V de Vingança. Joao e Juliana, no círculo, observam.
@@ -289,7 +289,7 @@ E já, como soberanos de nós mesmos....
 EXT. DIA - CINELÂNDIA #12C#
 
 
-[[arc:sumico|namoro|traicao|prisao]][[pos:25|30|32]]
+[[arc:sumico|namoro|traicao|prisao]][[pos:23|30|32]]
 [[requires:25]]
 
 Um criança de um ano passeia pela OcupaRio.
@@ -323,7 +323,7 @@ Idealismo não tem nada a ver com isso. Idealismo é uma bobagem.
 
 EXT. NOITE - RUA DESERTA DO CENTRO DA CIDADE #14#
 
-[[arc:sumico|namoro|traicao|prisao]][[pos:30|33|37|40|42]]
+[[arc:sumico|namoro|traicao|prisao]][[pos:30|33|37|41|42]]
 
 Joao e Juliana caminham numa rua vazia. Olham os prédios. É uma região meio abandonada.
 
@@ -343,7 +343,7 @@ Corta para:
 
 INT. NOITE - INTERIOR DE PRÉDIO ABANDONADO #15#
 
-[[arc:sumico|namoro|traicao|prisao]][[pos:30|33|37|40|42]]
+[[arc:sumico|namoro|traicao|prisao]][[pos:30|33|37|41|42]]
 [[requires:14]][[blocks:11]]
 
 Juliana e Joao olham a vista para a cidade de um andar alto do edifício.
@@ -383,7 +383,7 @@ JOAO
 
 INT. NOITE - FESTA #16#
 
-[[arc:sumico|namoro|traicao|prisao]][[pos:30|33|37|40|42]]
+[[arc:sumico|namoro|traicao|prisao]][[pos:30|33|37|41|42]]
 
 -- talvez mudar a cena para ocupa rio de noite. --
 
@@ -392,7 +392,7 @@ Festa estranha, gente esquisita, punks, "alternativos", etc. Joao circula, olha 
 
 INT. NOITE - FESTA #17#
 
-[[arc:sumico|namoro|traicao|prisao]][[pos:33|35|37|40|42]][[requires:16]]
+[[arc:sumico|namoro|traicao|prisao]][[pos:33|35|37|41|42]][[requires:16]]
 
 
 Joao e Juliana discutem.
@@ -429,7 +429,7 @@ Joao entende. Não questiona mais.
 
 EXT. DIA - TAXI NO TRÂNSITO #18#
 
-[[arc:iluminacao ana|demissao|prisao]][[pos:30|40|50|60|62]]
+[[arc:iluminacao ana|demissao|prisao]][[pos:30|41|50|60|62]]
 [[requires:99]]
 
 Ana distraída no banco de trás. Olha a paisagem estourando plástico bolha.
@@ -504,7 +504,7 @@ Obrigada a você!
 
 EXT. DIA - RUA MOVIMENTADA DA ZONA SUL #22#
 
-[[arc:iluminacao ana]][[pos:10|13|60|65]]
+[[arc:iluminacao ana]][[pos:7|13|60|65]]
 [[blocks:21]]
 
 Ana anda apressada de óculos escuros. Uma mulher de meia-idade a reconhece e pede para tirar uma selfie.
@@ -896,7 +896,7 @@ Ana suspira. A decepção, ela quer chorar. Fernanda a abraça.
 
 INT. DIA - CAFÉ #39A#
 
-[[arc:*]][[pos:10|21|32|44|54|66|78]]
+[[arc:*]][[pos:7|21|32|44|54|66|78]]
 [[requires:26]]
 
 
@@ -1070,7 +1070,7 @@ O quarto está completamente desmontado, sem colchão na cama, móveis fora do l
 
 EXT. DIA - PAINEIRAS #47A#
 
-[[arc:*|iluminacao ana|aldeia]][[pos:25|55|65]]
+[[arc:*|iluminacao ana|aldeia]][[pos:27|55|65]]
 
 
 
@@ -1088,7 +1088,7 @@ Ana descansa um pouco da bicicleta. Se senta, olha o celular. Não tem cobertura
 
 EXT. DIA - CICLOVIA #48#
 
-[[arc:*]][[pos:10|16|22|32|48|56|64]]
+[[arc:*]][[pos:11|16|22|32|48|56|64]]
 [[requires:26]]
 
 Joao anda de bicicleta, distraído.
@@ -1228,7 +1228,7 @@ Mas como eu vou ter pego alguma coisa? Faz tempo que não vou no mato ou na prai
 
 INT. DIA - CONSULTÓRIO DE DERMATOLOGIA 1 #52#
 
-[[arc:demissao|pele|sumico|iluminacao ana]][[pos:25|45|55]]
+[[arc:demissao|pele|sumico|iluminacao ana]][[pos:27|45|55]]
 [[enforces:54]]
 
 
@@ -1258,7 +1258,7 @@ OK.
 
 INT. DIA - CONSULTÓRIO DE DERMATOLOGIA 2 #53#
 
-[[arc:demissao|pele|sumico|iluminacao ana]][[pos:25|50|60]]
+[[arc:demissao|pele|sumico|iluminacao ana]][[pos:28|50|60]]
 
 
 Ana conversa com o segundo médico.
@@ -1282,7 +1282,7 @@ Ana se frustra.
 
 INT. DIA - CONSULTÓRIO DE DERMATOLOGIA 1 #54#
 
-[[arc:demissao|pele|sumico|iluminacao ana]][[pos:55|65|72]]
+[[arc:demissao|pele|sumico|iluminacao ana]][[pos:55|65|69]]
 [[requires:52]]
 
 
@@ -1334,14 +1334,14 @@ A campainha do apartamento toca.
 
 INT. DIA - BARRACA NA FLORESTA #56#
 
-[[arc:traicao|sumico]][[pos:55|65|72]]
+[[arc:traicao|sumico]][[pos:55|65|68]]
 
 Joao acorda em uma barraca. Um saco de dormir vazio ao seu lado. Abre a porta. Está em uma floresta
 
 
 INT. DIA - BARRACA #56A#
 
-[[arc:traicao|sumico]][[pos:55|65|72]]
+[[arc:traicao|sumico]][[pos:55|65|68]]
 [[requires:27]]
 
 Joao lê um livro em uma barraca.
@@ -1364,14 +1364,14 @@ Juliana vê Joao dormir dentro da barraca, em lugar indefinido.
 
 INT./EXT. DIA- BARRACA NA PRAIA #59#
 
-[[arc:sumico|namoro]][[pos:24|35|72]]
+[[arc:sumico|namoro]][[pos:23|35|72]]
 
 Joao está dormindo em uma barraca com muita luz. Abre a porta e vê que está em uma praia. Olha em volta e vê Juliana entrando na água.
 
 
 EXT. DIA - BARRACA NA PRAIA #59A#
 
-[[arc:traicao|sumico|namoro|*]][[pos:2|5|15|25|55|62]]
+[[arc:traicao|sumico|namoro|*]][[pos:2|5|20|26|55|62]]
 
 
 Barraca numa praia isolada.
@@ -1379,7 +1379,7 @@ Barraca numa praia isolada.
 
 EXT. DIA - BARRACA NA PRAIA #59B#
 
-[[arc:traicao|sumico|namoro|*]][[pos:25|55|62]]
+[[arc:traicao|sumico|namoro|*]][[pos:27|55|62]]
 
 Barraca no praia da cidade.
 
@@ -1505,13 +1505,13 @@ E hoje não concordo com alguma coisas que fiz e acho que as pessoas deveriam sa
 
 INT. NOITE - SALA DE ANA #68#
 
-[[arc:demissao|iluminacao ana|prisao]][[pos:33|54|66]]
+[[arc:demissao|iluminacao ana|prisao]][[pos:29|54|66]]
 
 Ana em casa, olha seu crachá.
 
 INT. DIA - ESTUDIO #69#
 
-[[arc:demissao|iluminacao ana]][[pos:33|54|66]]
+[[arc:demissao|iluminacao ana]][[pos:29|54|66]]
 [[requires:67]]
 
 É o início do programa. Vemos Marcos sentado, pronto para ser sabatinado. Ana apresenta.
@@ -1522,7 +1522,7 @@ Boa noite. Depois de muito tempo, vamos voltar hoje ao tema das manifestações 
 
 INT. NOITE - SALA DE ANA #70#
 
-[[arc:prisao|sumico|*]][[pos:33|44|54]]
+[[arc:prisao|sumico|*]][[pos:29|44|54]]
 
 
 Joao assiste TV. Reage a algo que acabou de ver. Levanta, desliga o aparelho e sai de quadro.
@@ -1530,7 +1530,7 @@ Joao assiste TV. Reage a algo que acabou de ver. Levanta, desliga o aparelho e s
 
 INT. NOITE - SALA DE ANA #70A#
 
-[[arc:iluminacao ana|*]][[pos:33|44|54]]
+[[arc:iluminacao ana|*]][[pos:29|37|54]]
 
 
 Ana assiste TV.
@@ -1538,7 +1538,7 @@ Ana assiste TV.
 
 INT. NOITE - SALA DE ANA #70B#
 
-[[arc:iluminacao ana|*]][[pos:33|44|54|73]]
+[[arc:iluminacao ana|*]][[pos:29|44|54|73]]
 
 
 Ana assiste TV. Reage a algo que acabou de ver. Levanta, desliga o aparelho e sai de quadro.
@@ -1547,14 +1547,14 @@ Ana assiste TV. Reage a algo que acabou de ver. Levanta, desliga o aparelho e sa
 EXT. NOITE - RUA #71#
 
 
-[[arc:traicao|sumico|namoro]][[pos:55|65|75]]
+[[arc:traicao|sumico|namoro]][[pos:53|65|75]]
 
 Juliana picha "Marielle Presente"
 
 
 EXT. NOITE - RUA #71A#
 
-[[arc:traicao|sumico|namoro]][[pos:45|55]]
+[[arc:traicao|sumico|namoro]][[pos:45|53]]
 
 
 Juliana picha "Cadê o Amarildo"
@@ -1562,7 +1562,7 @@ Juliana picha "Cadê o Amarildo"
 
 EXT. NOITE - RUA #72#
 
-[[arc:traicao|sumico|namoro]][[pos:55|65|69]]
+[[arc:traicao|sumico|namoro]][[pos:53|65|69]]
 
 
 Joao picha "Não vai ter golpe"
@@ -1827,7 +1827,7 @@ Ana recolhe roupas do varal.
 
 INT. DIA - SALA DE ANA - #87#
 
-[[arc:relacao ana e joao|iluminacao ana|pele]][[pos:22|33|75]]
+[[arc:relacao ana e joao|iluminacao ana|pele]][[pos:22|31|75]]
 
 
 Ana vê posts de haters em sua página. Joao a aconselha a não reagir.
@@ -1835,14 +1835,14 @@ Ana vê posts de haters em sua página. Joao a aconselha a não reagir.
 
 INT. DIA - SALA DE ANA - #88#
 
-[[arc:namoro|sumico|pele]][[pos:22|33|44]]
+[[arc:namoro|sumico|pele]][[pos:22|31|44]]
 
 Joao e Juliana assistem TV. Juliana faz comentário negativo sobre a emissora de Ana.
 
 
 INT. DIA - COZINHA DE ANA - #89#
 
-[[arc:*]][[pos:33|44|55|66|75]]
+[[arc:*]][[pos:31|44|53|66|75]]
 
 
 Chaleira ferve.
@@ -1850,7 +1850,7 @@ Chaleira ferve.
 
 INT. DIA - SALA DE ANA - #89B#
 
-[[arc:|iluminacao ana|pele|*]][[pos:33|44|55|66|75]]
+[[arc:|iluminacao ana|pele|*]][[pos:31|44|53|66|75]]
 
 Ana toma chá. Celular sobre a mesa.
 
@@ -1858,7 +1858,7 @@ Ana toma chá. Celular sobre a mesa.
 INT. DIA - SALA DE ANA - #89C#
 
 
-[[arc:|iluminacao ana|pele|*]][[pos:55|61|72]]
+[[arc:|iluminacao ana|pele|*]][[pos:53|61|70]]
 
 
 Ana toma chá. Celular sobre a mesa. Abre a cortina.
@@ -1866,7 +1866,7 @@ Ana toma chá. Celular sobre a mesa. Abre a cortina.
 
 INT. DIA - SALA DE ANA - #89D#
 
-[[arc:|iluminacao ana|pele|*]][[pos:55|61|72]]
+[[arc:|iluminacao ana|pele|*]][[pos:53|61|70]]
 
 
 Celular sobre a mesa.
@@ -1899,14 +1899,14 @@ Ana olha o mar do apartamento.
 INT. DIA - SALA DE ANA - #93B#
 
 
-[[arc:iluminacao ana|*]][[pos:56|67|72]]
+[[arc:iluminacao ana|*]][[pos:49|67]]
 O mar emoldurado pela janela.
 
 
 
 INT. DIA - SALA DE ANA - #94#
 
-[[arc:iluminacao ana|*]][[pos:42|56|67|72]]
+[[arc:iluminacao ana|*]][[pos:43|49|67]]
 
 
 Vista da cidade.
@@ -1915,7 +1915,7 @@ Vista da cidade.
 INT. DIA - SALA DE ANA - #95#
 
 
-[[arc:*]][[pos:42|56|67|72]]
+[[arc:*]][[pos:43|49|56|67]]
 
 Cortina, praia, vista.
 
@@ -1923,14 +1923,14 @@ Cortina, praia, vista.
 INT. DIA - SALA DE ANA - #96#
 
 
-[[arc:iluminacao ana|*]][[pos:42|56|67|72]]
+[[arc:iluminacao ana|*]][[pos:43|56|67|72]]
 
 Ana olha o mar.
 
 
 INT. DIA - SALA DE ANA - #96B#
 
-[[arc:iluminacao ana|*]][[pos:42|56|67|72]]
+[[arc:iluminacao ana|*]][[pos:43|56|67|72]]
 
 
 Ana olha o mar, com referência da janela.
@@ -1939,7 +1939,7 @@ Ana olha o mar, com referência da janela.
 
 INT. DIA - SALA DE ANA - #96C#
 
-[[arc:iluminacao ana|*]][[pos:42|56|67|72]]
+[[arc:iluminacao ana|*]][[pos:43|56|67|72]]
 
 Ana olha o mar, mas não vemos fora.
 
@@ -1969,67 +1969,67 @@ Ana deixa cair uma taça e ela se quebra no chão.
 
 ARQ - GLOBO - #100#
 
-[[arc:sumico|prisao|demissao|namoro|iluminacao ana|demissao]][[pos:14|24|33|41]]
+[[arc:sumico|prisao|demissao|namoro|iluminacao ana|demissao]][[pos:13|24|33|41]]
 
 Globo repórter: "De onde vem tanta violência?"
 
 
 ARQ - REDE BRASIL -  #101#
 
-[[arc:sumico|prisao|demissao|namoro|iluminacao ana|trilha laura]][[pos:54|64]]
+[[arc:sumico|prisao|demissao|namoro|iluminacao ana|trilha laura]][[pos:51|64]]
 
 Rede brasil: "Impeachment Dilma aprovado"
 
 
 ARQ - GLOBO - #102#
 
-[[arc:sumico|prisao|demissao|namoro|iluminacao ana|trilha laura]][[pos:14|24|34]]
+[[arc:sumico|prisao|demissao|namoro|iluminacao ana|trilha laura]][[pos:13|24|34]]
 
 Jornal da Globo: "PEC das domésticas aprovada"
 
 ARQ - REDE BRASIL - #103#
 
-[[arc:sumico|prisao|demissao|namoro|iluminacao ana|demissao]][[pos:64|74]]
+[[arc:sumico|prisao|demissao|namoro|iluminacao ana|demissao]][[pos:71|74]]
 
 Rede brasil: "Lula se entrega"
 
 ARQ - MANIFESTACAO -  #104#
 
-[[arc:sumico|prisao|demissao|namoro|iluminacao ana|demissao]][[pos:14|24|34|54|64]]
+[[arc:sumico|prisao|demissao|namoro|iluminacao ana|demissao]][[pos:14|23|34|51|64]]
 
 202 Filmes: "Manifestação Niteroi 14/junho/2013"
 
 
 ARQ - MANIFESTACAO -  #105#
 
-[[arc:sumico|prisao|demissao|namoro|iluminacao ana|demissao]][[pos:14|24|34|54|64]]
+[[arc:sumico|prisao|demissao|namoro|iluminacao ana|demissao]][[pos:14|23|34|51|64]]
 
 202 Filmes: "Manifestação Rio 17/junho/2013"
 
 
 ARQ - MANIFESTACAO -  #106#
 
-[[arc:sumico|prisao|demissao|namoro|iluminacao ana|demissao]][[pos:14|24|34|54|64]]
+[[arc:sumico|prisao|demissao|namoro|iluminacao ana|demissao]][[pos:14|23|34|51|64]]
 
 202 Filmes: "Manifestação Rio 20/junho/2013"
 
 
 ARQ - MANIFESTACAO -  #107#
 
-[[arc:sumico|prisao|demissao|namoro|iluminacao ana|demissao]][[pos:14|24|34|54|64]]
+[[arc:sumico|prisao|demissao|namoro|iluminacao ana|demissao]][[pos:14|24|36|51|64]]
 
 202 Filmes: "Manifestação Rio 20/junho/2013 CLONES DE STALLONE"
 
 ARQ - MANIFESTACAO -  #108#
 
-[[arc:sumico|prisao|demissao|namoro|iluminacao ana|demissao]][[pos:14|24|34|54|64]]
+[[arc:sumico|prisao|demissao|namoro|iluminacao ana|demissao]][[pos:14|24|36|51|64]]
 
 202 Filmes: "Manifestação Rio 20/junho/2013 perspectiva pm"
 
 
 ARQ - MANIFESTACAO -  #109#
 
-[[arc:sumico|prisao|demissao|namoro|iluminacao ana|demissao]][[pos:14|24|34|54|64]]
+[[arc:sumico|prisao|demissao|namoro|iluminacao ana|demissao]][[pos:16|24|36|51|64]]
 
 202 Filmes: "Memórias em confronto".
 --Trocar música--
@@ -2037,7 +2037,7 @@ ARQ - MANIFESTACAO -  #109#
 
 ARQ - GLOBO -  #110#
 
-[[arc:sumico|prisao|demissao|namoro|iluminacao ana|demissao]][[pos:14|24|34|41]
+[[arc:sumico|prisao|demissao|namoro|iluminacao ana|demissao]][[pos:16|24|36|41]
 [[requires: 111]]
 
 Arnaldo Jabor contra.
@@ -2045,7 +2045,7 @@ Arnaldo Jabor contra.
 
 ARQ - GLOBO - #111#
 
-[[arc:sumico|prisao|demissao|namoro|iluminacao ana|demissao]][[pos:34|45]]
+[[arc:sumico|prisao|demissao|namoro|iluminacao ana|demissao]][[pos:36|45]]
 
 Arnaldo Jabor a favor.
 
@@ -2059,7 +2059,7 @@ Procuradores ameaçam abandonar Lava Jato
 
 ARQ - OCUPA RIO - #113#
 
-[[arc:sumico|prisao|demissao|namoro|iluminacao ana|demissao]][[pos:14]]
+[[arc:sumico|prisao|demissao|namoro|iluminacao ana|demissao]][[pos:16]]
 
 Sérgio presidente na ocupa rio
 
