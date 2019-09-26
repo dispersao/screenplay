@@ -12,7 +12,6 @@ EXT. NOITE - BOTAFOGO #1#
 
 [[arc:iluminacao ana]][[pos:1|3|4]]
 
-
 Ana caminha pela calçada apressada e repara um táxi vazio esperando na rua. Ela se aproxima do motorista.
 
 ANA
@@ -36,6 +35,7 @@ ANA
 Quer que eu chame um guarda?
 
 O táxi se resigna e resolve sair. Ana continua a andar com uma sensação de dever cumprido.
+
 
 EXT. DIA - UNIVERSIDADE #2#
 [[arc:namoro|iluminacao joao]][[pos:4|5|6|8|10]][[blocks_next:casa_juliana]]
@@ -81,11 +81,10 @@ Hoje tem, não quer ir?
 
 Joao sorri.
 
+
 EXT. DIA - SALA DE ANA  #3#
 
-
 [[arc:trilha laura|iluminacao ana]][[pos:7|8|10|12|15|20|25]]
-
 
 Laura serve o café da manhã, de uniforme. Uma televisão exibe um telejornal matinal. Ana comenta as notícias políticas.
 
@@ -134,7 +133,6 @@ EXT. DIA - SALA DE ANA  #5#
 [[arc:namoro|traicao|iluminacao ana]][[pos:3|4|6|8|10|15|20|25]]
 [[requires:2]]
 
-
 Ana jogada no sofá imersa no celular. Joao entra, joga a mochila no sofá, puxa papo.
 
 JOAO
@@ -148,6 +146,7 @@ Acho muito louco esse esquema. Por um lado entendo que é justo, mas por outro f
 
 Ana ainda não saiu do transe. Joao suspira, desiste, vai para o quarto.
 
+
 EXT. DIA - QUARTO DE JOAO  #6#
 
 [[arc:namoro|iluminacao ana|prisao]][[pos:10|15|20|25|30|40]][[blocks_next:quarto_joao]]
@@ -160,14 +159,12 @@ EXT. DIA - QUARTO DE JOAO  #7#
 
 [[arc:sumico|iluminacao ana|namoro|traicao]][[pos:50|60|65]]
 
-
 O dia amanhece, Ana em roupa de dormir. Entra no quarto de Joao|. Não há ninguém, a cama feita. Ela olha as coisas dele, abre gavetas, procura pistas. Há três abrigos negros com capuz, estilo black bloc. Inspeciona bolsos de roupas. Joao| está desaparecido há alguns dias e ela começa a se desesperar.
 
 
 INT. DIA - QUARTO DE JOAO  #8#
 
 [[arc:namoro|sumico|traicao|prisao]][[pos:40|45|50]]
-
 
 Joao se prepara para ir a uma manifestação. Coloca vinagre na mochila, uma máscara tipo anonymous, um lenço de rosto, um lenço palestino.
 
@@ -188,7 +185,6 @@ Ana dá um sorriso de desprezo e sai.
 INT./EXT. DIA - CINELÂNDIA #10#
 
 [[arc:sumico|namoro|traicao|prisao]][[pos:22|25|28|32]]
-
 
 Dentro de uma barraca, Joao acorda. Aos poucos, começa a se escutar ruídos de rua. Carros, pessoas conversando. Joao se levanta e senta, espreguiçando. Ele escuta a voz de Juliana fazendo um tipo de discurso. Abre a porta da barraca: estamos na Cinelândia, diversas barracas estão montadas. Joao sai. Juliana está falando, sentada em um círculo com cerca de 30 pessoas, propondo plantar uma horta na praça. No centro do círculo, vários cartazes espalhados no chão com palavras de ordem.  Ela termina de falar, as pessoas aplaudem abanando as mãos.
 
@@ -244,8 +240,8 @@ Não é assim, também.
 
 
 EXT. DIA - CINELÂNDIA #12#
-[[arc:sumico|namoro|traicao|prisao]][[pos:25|28|32]]
 
+[[arc:sumico|namoro|traicao|prisao]][[pos:25|28|32]]
 
 Fim de tarde: uma assembleia discute o futuro da ocupação. Entre os participantes notam-se diversos moradores de rua. Outros usam máscaras estilo V de Vingança. Joao e Juliana, no círculo, observam.
 
@@ -275,7 +271,9 @@ JOVEM COM CABELO COMPRIDO
 (para o senhor sem-teto)
 Presidente, deixa ela falar e logo em seguida vai você.
 
+
 Ele concorda.
+
 
 EXT. DIA - CINELÂNDIA #12B#
 
@@ -286,13 +284,14 @@ O senhor sem teto lê um comunicado na OcupaRio.
 SENHOR SEM-TETO
 E já, como soberanos de nós mesmos....
 
-EXT. DIA - CINELÂNDIA #12C#
 
+EXT. DIA - CINELÂNDIA #12C#
 
 [[arc:sumico|namoro|traicao|prisao]][[pos:23|30|32]]
 [[requires:25]]
 
 Um criança de um ano passeia pela OcupaRio.
+
 
 INT. DIA - SALA DE ANA #13#
 
@@ -394,7 +393,6 @@ INT. NOITE - FESTA #17#
 
 [[arc:sumico|namoro|traicao|prisao]][[pos:33|35|37|41|42]][[requires:16]]
 
-
 Joao e Juliana discutem.
 
 JOAO
@@ -460,7 +458,6 @@ Muito gente aí fora nem sabe o que é internet.
 
 INT. DIA - SALA DE ANA #20#
 
-
 [[arc:demissao|iluminacao ana]][[pos:1|50|52|60]]
 
 Ana entra em casa se sentindo mal, falado no telefone. Cara de quem chorou, ou vai chorar.
@@ -509,8 +506,6 @@ EXT. DIA - RUA MOVIMENTADA DA ZONA SUL #22#
 [[blocks:21]]
 
 Ana anda apressada de óculos escuros. Uma mulher de meia-idade a reconhece e pede para tirar uma selfie.
-
-
 
 
 INT. DIA - CAFÉ #23#
@@ -579,15 +574,12 @@ INT. DIA - SALA DE ANA #27#
 
 [[pos:9|19|29|39|49|59]]
 
-
 Ana está na cama tomando uma xicará de chá. Quando vai colocar a xícara na mesa de cabeceira, ela a deixa cair no chão. Faz um barulho horrível. Ela suspira.
 
 
 INT. DIA - QUARTO DE EMPREGADA DE ANA #28#
 
 [[arc:trilha laura|iluminacao ana]][[pos:35|37|40]]
-
-
 
 Ana entra na cozinha e vai até o quarto de empregada conversar com Laura.
 
@@ -647,11 +639,11 @@ Ana, isenção?....
 ANA
 Esse pessoal é péssimo. Se as manifestações acabaram daquele jeito, sem ninguém, foi por causa da violência dos black blocs.
 
+
 INT. DIA - ESCRITÓRIO DE FERNANDA #29A#
 
 [[arc:iluminacao ana]][[pos:15|25|45]]
 [[blocks:29]]
-
 
 Ana ainda empregada. Ana e Fernanda tomam um café.
 
@@ -685,8 +677,6 @@ ANA
 Esse pessoal é péssimo. Se as manifestações acabaram daquele jeito, sem ninguém, foi por causa da violência dos black blocs.
 
 
-
-
 INT. NOITE - SALA DE ANA #30#
 
 [[arc:prisao|sumico]][[pos:45|47|50|52]]
@@ -705,7 +695,6 @@ Deus me livre.
 INT. NOITE - SALA DE ANA #31#
 
 [[arc:trilha laura|iluminacao ana]][[pos:45|47|50|52]]
-
 
 Ana e Laura assistem televisão no sofá. Locução de reportagem sobre a PEC das domésticas.
 
@@ -726,11 +715,10 @@ Cordialidade, Laura. Você é nossa família também.
 
 INT. DIA - ESTUDIO #32#
 
-
 [[arc:demissao|sumico|bento rodrigues]][[pos:6|52|60]]
 
-
 Num cenário simples, em 1997, Ana de tailler e um entrevistado, economista, de terno.
+
 
 ENTREVISTADO
 Bom, com essa privatização, a gente espera que a produção da Vale do Rio Doce aumente muito. Porque não vai ser mais o governo a investir, será o mercado.
@@ -749,6 +737,7 @@ Mas qual seria o motivo dessa urgência?
 ENTREVISTADO
 (já irritado)
 O governo precisa de caixa, Ana.
+
 
 ENTREVISTADO
 (quase um ato falho)
@@ -842,7 +831,6 @@ INT. DIA - SALA DE ANA #37#
 
 [[arc:sumico|aldeia]][[pos:56|62|73]]
 [[requires:35]]
-
 
 Ana ao telefone fixo.
 
@@ -1080,8 +1068,7 @@ Ana anda de bicicleta em uma estrada do Alto. Desfruta a paisagem o vento na car
 
 EXT. DIA - PAINEIRAS #47B#
 
-[[arc:*|iluminacao ana]][[pos:18|26|34|46|52|65]][[blocks_2nd_next:ana_se_move]]
-
+[[arc:*|iluminacao ana]][[pos:18|26|34|46|52|65]]
 
 
 Ana descansa um pouco da bicicleta. Se senta, olha o celular. Não tem cobertura.
@@ -1158,7 +1145,7 @@ Ana e Fernanda estão terminando de jantar, tomando um vinho. Ana conta que est�
 
 INT. DIA - QUARTO DE JOAO #50#
 
-[[arc:relacao ana e joao|iluminacao ana|pele]][[pos:1|10|70]][[blocks_next:quarto_joao]]
+[[arc:relacao ana e joao|iluminacao ana|pele]][[pos:1|10|70]]
 
 Close-up: mãos femininas tentam espremer uma espinha nas coisas de outra pessoa. Em seguida closes dos rostos, detalhes de peles
 
@@ -1421,11 +1408,13 @@ Vemos Juliana e Marcos juntos em uma entrada de metrô: ela o beija e ele entra.
 
 Joao fica triste.
 
+
 INT. NOITE - SALA DE ANA #63#
 
 [[arc:sumico]][[pos:53|59]]
 
 Ana acha um bilhete de Joao| em casa. Senta para ler, impactada. Não lemos o conteúdo do bilhete.
+
 
 EXT. NOITE - RUA #64#
 
@@ -1456,6 +1445,7 @@ EXT. DIA - RUA DA JULIANA #65#
 
 Juliana sai de uma casa simples, com uma mochila nas costas. Está indo para a universidade.
 
+
 EXT. DIA - RUA DA JULIANA #65B#
 
 [[arc:namoro|traicao|sumico]][[pos:8]][[blocks_next:casa_juliana]]
@@ -1468,6 +1458,7 @@ INT. NOITE - SALA DE ANA #66#
 [[arc:namoro|traicao|sumico|*]][[pos:12|38|52]][[blocks_next:joao_TV]]
 
 Joao assiste TV em casa.
+
 
 INT. NOITE - SALA DE ANA #67#
 
@@ -1505,11 +1496,13 @@ Ana se surpreende.
 MARCOS
 E hoje não concordo com alguma coisas que fiz e acho que as pessoas deveriam saber como agia a polícia. Especialmente os infiltrados.
 
+
 INT. NOITE - SALA DE ANA #68#
 
 [[arc:demissao|iluminacao ana|prisao]][[pos:29|54|66]]
 
 Ana em casa, olha seu crachá.
+
 
 INT. DIA - ESTUDIO #69#
 
@@ -1577,12 +1570,9 @@ EXT. NOITE - RUA #73#
 Joao picha "Lula livre"
 
 
-
-
 INT. NOITE - SALA DE ANA #75#
 
 [[arc:trilha laura|iluminacao ana|pele]][[pos:38|44|54]]
-
 
 Ana e Joao jantam. Joao corta um pedaço do bife e põe na boca. Ele faz uma careta olhando para Ana. Ana reage, corta uma pedaço e prova também. Ela reage negativamente.
 
@@ -1824,12 +1814,11 @@ INT. DIA - ÁREA DE ANA - #86#
 [[arc:trilha laura|iluminacao ana|pele]][[pos:63|71|74]][[blocks_2nd_next:ana_em_casa]]
 
 Ana recolhe roupas do varal.
-[[requires:26]]
+
 
 INT. DIA - SALA DE ANA - #87#
 
 [[arc:relacao ana e joao|iluminacao ana|pele]][[pos:22|31|75]]
-
 
 Ana vê posts de haters em sua página. Joao a aconselha a não reagir.
 
@@ -1844,7 +1833,6 @@ Joao e Juliana assistem TV. Juliana faz comentário negativo sobre a emissora de
 INT. DIA - COZINHA DE ANA - #89#
 
 [[arc:*]][[pos:31|44|53|66|75]]
-
 
 Chaleira ferve.
 
@@ -1880,11 +1868,9 @@ INT. NOITE - SALA DE ANA - #91#
 Ana e Joao discutem sobre Black Blocks e a prisão dele.
 
 
-
 INT. NOITE - SALA DE ANA - #92#
 
 [[arc:pele|prisao|demissao|relacao ana e joao]][[pos:52|55]]
-
 
 Ana no telefone, fala com Joao na prisão.
 
@@ -1902,7 +1888,6 @@ INT. DIA - SALA DE ANA - #93B#
 
 [[arc:iluminacao ana|*]][[pos:49|67]][[blocks_2nd_next:celular_vistas_etc]]
 O mar emoldurado pela janela.
-
 
 
 INT. DIA - SALA DE ANA - #94#
@@ -1937,7 +1922,6 @@ INT. DIA - SALA DE ANA - #96B#
 Ana olha o mar, com referência da janela.
 
 
-
 INT. DIA - SALA DE ANA - #96C#
 
 [[arc:iluminacao ana|*]][[pos:43|56|67|72]][[blocks_2nd_next:ana_em_casa]]
@@ -1945,13 +1929,11 @@ INT. DIA - SALA DE ANA - #96C#
 Ana olha o mar, mas não vemos fora.
 
 
-
 EXT. DIA - PÁTIO INTERNO - #97#
 
 [[arc:*]][[pos:21|33|44]][[blocks_2nd_next:celular_vistas_etc]]
 
 Pátio interno do edifício.
-
 
 
 INT. DIA - CAFÉ - #98#
@@ -2038,7 +2020,7 @@ ARQ - MANIFESTACAO -  #109#
 
 ARQ - GLOBO -  #110#
 
-[[arc:sumico|prisao|demissao|namoro|iluminacao ana|demissao]][[pos:16|24|36|41]
+[[arc:sumico|prisao|demissao|namoro|iluminacao ana|demissao]][[pos:16|24|36|41]]
 [[requires: 111]]
 
 Arnaldo Jabor contra.
@@ -2076,6 +2058,5 @@ Cadê o Amarildo? Material do David, 2013
 ARQ - MANIFESTACAO - #115#
 
 [[arc:sumico|prisao|demissao|namoro|iluminacao ana|demissao]][[pos:56|67]]
-
 
 Confronto Cinelêndia Material do David, 2017
