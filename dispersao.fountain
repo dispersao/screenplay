@@ -1,4 +1,4 @@
-*]][Title:
+celular vistas etc*]][Title:
     _**DISPERSÃO**_
 Credit: Projeto de
 Author: Bruno Vianna
@@ -38,7 +38,7 @@ O táxi se resigna e resolve sair. Ana continua a andar com uma sensação de de
 
 
 EXT. DIA - UNIVERSIDADE #2#
-[[arc:namoro|iluminacao joao]][[pos:4|5|6|8|10]][[blocks_next:casa_juliana]]
+[[arc:namoro|iluminacao joao]][[pos:4|5|6|8|10]][[blocks-next:casa juliana]]
 
 Joao chega de bicicleta. Prende ela a um bicicletário, onde Juliana já está prendendo a dela. Ela a cumprimenta.
 
@@ -149,7 +149,7 @@ Ana ainda não saiu do transe. Joao suspira, desiste, vai para o quarto.
 
 EXT. DIA - QUARTO DE JOAO  #6#
 
-[[arc:namoro|iluminacao ana|prisao]][[pos:10|15|20|25|30|40]][[blocks_next:quarto_joao]]
+[[arc:namoro|iluminacao ana|prisao]][[pos:10|15|20|25|30|40]][[blocks-next:quarto joao]]
 
 
 O dia amanhece, Ana em roupa de dormir. Entra no quarto de Joao|. Não há ninguém, a cama feita. Ela olha as coisas dele, toca alguns livros na estante. Não está preocupada, só está se habituando à ideia de que agora nem sempre o filho dorme em casa.
@@ -428,7 +428,7 @@ Joao entende. Não questiona mais.
 EXT. DIA - TAXI NO TRÂNSITO #18#
 
 [[arc:iluminacao ana|demissao|prisao]][[pos:30|41|50|60|62]]
-[[requires:99]][[blocks_2nd_next:ana_se_move]]
+[[requires:99]][[blocks-2nd-next:ana se move]]
 
 
 Ana distraída no banco de trás. Olha a paisagem estourando plástico bolha.
@@ -548,7 +548,7 @@ Sim. Entendi. Claro, vou tentar, mas não tenho ideia de como ele vai reagir.
 EXT. DIA - CICLOVIA #24#
 
 [[arc:*]][[pos:8|18|28|38|48|58]]
-[[requires:99]][[blocks_2nd_next:ana_se_move]]
+[[requires:99]][[blocks-2nd-next:ana se move]]
 
 Ana anda de bicicleta, um pouco tensa.
 
@@ -1418,7 +1418,7 @@ Ana acha um bilhete de Joao| em casa. Senta para ler, impactada. Não lemos o co
 
 EXT. NOITE - RUA #64#
 
-[[arc:namoro]][[pos:72]][[blocks_next:juliana_picha|joao_picha]]
+[[arc:namoro]][[pos:72]][[blocks-next:juliana picha|joao picha]]
 
 
 Joao e Juliana picham "Fora Temer"
@@ -1426,21 +1426,21 @@ Joao e Juliana picham "Fora Temer"
 
 EXT. NOITE - RUA #64A#
 
-[[arc:traicao|sumico]][[pos:68|73]][[blocks_next:joao_picha]]
+[[arc:traicao|sumico]][[pos:68|73]][[blocks-next:joao picha]]
 
 Joao tenta pichar alguma coisa mas o spray falha.
 
 
 EXT. NOITE - RUA #64B#
 
-[[arc:namoro]][[pos:76]][[blocks_next:juliana_picha|joao_picha]]
+[[arc:namoro]][[pos:76]][[blocks-next:juliana picha|joao picha]]
 
 Joao e Juliana picham #elenão.
 
 
 EXT. DIA - RUA DA JULIANA #65#
 
-[[arc:namoro|traicao|sumico]][[pos:3|6]][[blocks_next:casa_juliana]]
+[[arc:namoro|traicao|sumico]][[pos:3|6]][[blocks-next:casa juliana]]
 
 
 Juliana sai de uma casa simples, com uma mochila nas costas. Está indo para a universidade.
@@ -1448,14 +1448,14 @@ Juliana sai de uma casa simples, com uma mochila nas costas. Está indo para a u
 
 EXT. DIA - RUA DA JULIANA #65B#
 
-[[arc:namoro|traicao|sumico]][[pos:8]][[blocks_next:casa_juliana]]
+[[arc:namoro|traicao|sumico]][[pos:8]][[blocks-next:casa juliana]]
 
 Juliana volta para casa.
 
 
 INT. NOITE - SALA DE ANA #66#
 
-[[arc:namoro|traicao|sumico|*]][[pos:12|38|52]][[blocks_next:joao_TV]]
+[[arc:namoro|traicao|sumico|*]][[pos:12|38|52]][[blocks-next:joao TV]]
 
 Joao assiste TV em casa.
 
@@ -1517,7 +1517,7 @@ Boa noite. Depois de muito tempo, vamos voltar hoje ao tema das manifestações 
 
 INT. NOITE - SALA DE ANA #70#
 
-[[arc:prisao|sumico|*]][[pos:29|44|54]][[blocks_next:joao_TV]]
+[[arc:prisao|sumico|*]][[pos:29|44|54]][[blocks-next:joao TV]]
 
 
 Joao assiste TV. Reage a algo que acabou de ver. Levanta, desliga o aparelho e sai de quadro.
@@ -1525,14 +1525,14 @@ Joao assiste TV. Reage a algo que acabou de ver. Levanta, desliga o aparelho e s
 
 INT. NOITE - SALA DE ANA #70A#
 
-[[arc:iluminacao ana|*]][[pos:29|37|54]][[blocks_next:ana_TV]]
+[[arc:iluminacao ana|*]][[pos:29|37|54]][[blocks-next:ana TV]]
 
 Ana assiste TV.
 
 
 INT. NOITE - SALA DE ANA #70B#
 
-[[arc:iluminacao ana|*]][[pos:29|44|54|73]][[blocks_next:ana_TV]]
+[[arc:iluminacao ana|*]][[pos:29|44|54|73]][[blocks-next:ana TV]]
 
 
 Ana assiste TV. Reage a algo que acabou de ver. Levanta, desliga o aparelho e sai de quadro.
@@ -1541,14 +1541,14 @@ Ana assiste TV. Reage a algo que acabou de ver. Levanta, desliga o aparelho e sa
 EXT. NOITE - RUA #71#
 
 
-[[arc:traicao|sumico|namoro]][[pos:53|65|75]][[blocks_next:juliana_picha]]
+[[arc:traicao|sumico|namoro]][[pos:53|65|75]][[blocks-next:juliana picha]]
 
 Juliana picha "Marielle Presente"
 
 
 EXT. NOITE - RUA #71A#
 
-[[arc:traicao|sumico|namoro]][[pos:45|53]][[blocks_next:juliana_picha]]
+[[arc:traicao|sumico|namoro]][[pos:45|53]][[blocks-next:juliana picha]]
 
 
 Juliana picha "Cadê o Amarildo"
@@ -1556,7 +1556,7 @@ Juliana picha "Cadê o Amarildo"
 
 EXT. NOITE - RUA #72#
 
-[[arc:traicao|sumico|namoro]][[pos:53|65|69]][[blocks_next:joao_picha]]
+[[arc:traicao|sumico|namoro]][[pos:53|65|69]][[blocks-next:joao picha]]
 
 
 Joao picha "Não vai ter golpe"
@@ -1565,7 +1565,7 @@ Joao picha "Não vai ter golpe"
 EXT. NOITE - RUA #73#
 
 
-[[arc:traicao|sumico|namoro]][[pos:72|74]][[blocks_next:joao_picha]]
+[[arc:traicao|sumico|namoro]][[pos:72|74]][[blocks-next:joao picha]]
 
 Joao picha "Lula livre"
 
@@ -1795,7 +1795,7 @@ Ana sorri.
 
 INT. DIA - SALA DE ANA - #84#
 
-[[arc:trilha laura|iluminacao ana]][[pos:66|69|71]][[blocks_2nd_next:ana_em_casa]]
+[[arc:trilha laura|iluminacao ana]][[pos:66|69|71]][[blocks-2nd-next:ana em casa]]
 
 
 Ana recolhe roupas do varal.
@@ -1803,7 +1803,7 @@ Ana recolhe roupas do varal.
 
 INT. DIA - COZINHA DE ANA - #85#
 
-[[arc:trilha laura|iluminacao ana]][[pos:63|70|73]][[blocks_2nd_next:ana_em_casa]]
+[[arc:trilha laura|iluminacao ana]][[pos:63|70|73]][[blocks-2nd-next:ana em casa]]
 
 
 Ana vê a pia cheia de louça mas não tem disposição para lavar.
@@ -1811,7 +1811,7 @@ Ana vê a pia cheia de louça mas não tem disposição para lavar.
 
 INT. DIA - ÁREA DE ANA - #86#
 
-[[arc:trilha laura|iluminacao ana]][[pos:63|71|74]][[blocks_2nd_next:ana_em_casa]]
+[[arc:trilha laura|iluminacao ana]][[pos:63|71|74]][[blocks-2nd-next:ana em casa]]
 
 Ana recolhe roupas do varal.
 
@@ -1839,7 +1839,7 @@ Chaleira ferve.
 
 INT. DIA - SALA DE ANA - #89B#
 
-[[arc:|iluminacao ana|*]][[pos:31|44|53|66|75]][[blocks_2nd_next:ana_em_casa]]
+[[arc:iluminacao ana|*]][[pos:31|44|53|66|75]][[blocks-2nd-next:ana em casa]]
 
 Ana toma chá. Celular sobre a mesa.
 
@@ -1847,7 +1847,7 @@ Ana toma chá. Celular sobre a mesa.
 INT. DIA - SALA DE ANA - #89C#
 
 
-[[arc:|iluminacao ana|*]][[pos:53|61|70]][[blocks_2nd_next:ana_em_casa]]
+[[arc:iluminacao ana|*]][[pos:53|61|70]][[blocks-2nd-next:ana em casa]]
 
 
 Ana toma chá. Celular sobre a mesa. Abre a cortina.
@@ -1855,7 +1855,7 @@ Ana toma chá. Celular sobre a mesa. Abre a cortina.
 
 INT. DIA - SALA DE ANA - #89D#
 
-[[arc:|iluminacao ana|*]][[pos:53|61|70]][[blocks_2nd_next:celular_vistas_etc]]
+[[arc:iluminacao ana|*]][[pos:53|61|70]][[blocks-2nd-next:celular vistas etc]]
 
 
 Celular sobre a mesa.
@@ -1877,7 +1877,7 @@ Ana no telefone, fala com Joao na prisão.
 
 INT. DIA - SALA DE ANA - #93#
 
-[[arc:iluminacao ana|*]][[pos:53|64|71]][[blocks_2nd_next:ana_em_casa]]
+[[arc:iluminacao ana|*]][[pos:53|64|71]][[blocks-2nd-next:ana em casa]]
 
 
 Ana olha o mar do apartamento.
@@ -1886,13 +1886,13 @@ Ana olha o mar do apartamento.
 INT. DIA - SALA DE ANA - #93B#
 
 
-[[arc:iluminacao ana|*]][[pos:49|67]][[blocks_2nd_next:celular_vistas_etc]]
+[[arc:iluminacao ana|*]][[pos:49|67]][[blocks-2nd-next:celular vistas etc]]
 O mar emoldurado pela janela.
 
 
 INT. DIA - SALA DE ANA - #94#
 
-[[arc:iluminacao ana|*]][[pos:43|49|67]][[blocks_2nd_next:celular_vistas_etc]]
+[[arc:iluminacao ana|*]][[pos:43|49|67]][[blocks-2nd-next:celular vistas etc]]
 
 
 Vista da cidade.
@@ -1901,7 +1901,7 @@ Vista da cidade.
 INT. DIA - SALA DE ANA - #95#
 
 
-[[arc:*]][[pos:43|49|56|67]][[blocks_2nd_next:celular_vistas_etc]]
+[[arc:*]][[pos:43|49|56|67]][[blocks-2nd-next:celular vistas etc]]
 
 Cortina, praia, vista.
 
@@ -1909,14 +1909,14 @@ Cortina, praia, vista.
 INT. DIA - SALA DE ANA - #96#
 
 
-[[arc:iluminacao ana|*]][[pos:43|56|67|72]][[blocks_2nd_next:ana_em_casa]]
+[[arc:iluminacao ana|*]][[pos:43|56|67|72]][[blocks-2nd-next:ana em casa]]
 
 Ana olha o mar.
 
 
 INT. DIA - SALA DE ANA - #96B#
 
-[[arc:iluminacao ana|*]][[pos:43|56|67|72]][[blocks_2nd_next:ana_em_casa]]
+[[arc:iluminacao ana|*]][[pos:43|56|67|72]][[blocks-2nd-next:ana em casa]]
 
 
 Ana olha o mar, com referência da janela.
@@ -1924,14 +1924,14 @@ Ana olha o mar, com referência da janela.
 
 INT. DIA - SALA DE ANA - #96C#
 
-[[arc:iluminacao ana|*]][[pos:43|56|67|72]][[blocks_2nd_next:ana_em_casa]]
+[[arc:iluminacao ana|*]][[pos:43|56|67|72]][[blocks-2nd-next:ana em casa]]
 
 Ana olha o mar, mas não vemos fora.
 
 
 EXT. DIA - PÁTIO INTERNO - #97#
 
-[[arc:*]][[pos:21|33|44]][[blocks_2nd_next:celular_vistas_etc]]
+[[arc:*]][[pos:21|33|44]][[blocks-2nd-next:celular vistas etc]]
 
 Pátio interno do edifício.
 
@@ -1992,14 +1992,14 @@ ARQ - MANIFESTACAO -  #105#
 
 ARQ - MANIFESTACAO -  #106#
 
-[[arc:sumico|prisao|demissao|namoro|iluminacao ana|demissao]][[pos:14|23|34|51|64]][[blocks_next:documentais]]
+[[arc:sumico|prisao|demissao|namoro|iluminacao ana|demissao]][[pos:14|23|34|51|64]][[blocks-next:documentais]]
 
 202 Filmes: "Manifestação Rio 20/junho/2013"
 
 
 ARQ - MANIFESTACAO -  #107#
 
-[[arc:sumico|prisao|demissao|namoro|iluminacao ana|demissao]][[pos:14|24|36|51|64]][[blocks_next:documentais]]
+[[arc:sumico|prisao|demissao|namoro|iluminacao ana|demissao]][[pos:14|24|36|51|64]][[blocks-next:documentais]]
 
 202 Filmes: "Manifestação Rio 20/junho/2013 CLONES DE STALLONE"
 
